@@ -1,4 +1,6 @@
-# *Westmarch* Website
+# *Communicator* Website
+(modified from *Westmarch* Website)
+
 ## Structure
 Organize articles into volumes and issues. Put links to PDF files on the homepage for each issue. This will probably require a JSON file for each issue (or can I do it with special front matter in the editor's letter?). 
 
