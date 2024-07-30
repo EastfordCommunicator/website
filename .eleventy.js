@@ -11,27 +11,26 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.setDataDeepMerge(true);
 
-  const OgImageOptions = {
-    generateHTML: (outputUrl) => outputUrl,
-    satoriOptions: {
-        fonts: [
-            {
-                name: 'EB Garamond',
-                data: fs.readFileSync('assets/fonts/static/EBGaramond-Regular.ttf'),
-                style: 'normal',
-                weight: 400
-            },
-            {
-              name: 'EB Garamond',
-              data: fs.readFileSync('assets/fonts/static/EBGaramond-Italic.ttf'),
-              style: 'italic',
-              weight: 400
-            }
-        ],
-    },
-}
-
-  eleventyConfig.addPlugin(EleventyPluginOgImage, OgImageOptions);
+   const OgImageOptions = {
+     generateHTML: (outputUrl) => outputUrl,
+     satoriOptions: {
+         fonts: [
+             {
+                 name: 'EB Garamond',
+                 data: fs.readFileSync('assets/fonts/static/EBGaramond-Regular.ttf'),
+                 style: 'normal',
+                 weight: 400
+             },
+             {
+               name: 'EB Garamond',
+               data: fs.readFileSync('assets/fonts/static/EBGaramond-Italic.ttf'),
+               style: 'italic',
+               weight: 400
+             }
+         ],
+     },
+ }
+ eleventyConfig.addPlugin(EleventyPluginOgImage, OgImageOptions);
 
   eleventyConfig.addLayoutAlias("base", "layouts/base.njk");
   eleventyConfig.addLayoutAlias("article", "layouts/article.njk");

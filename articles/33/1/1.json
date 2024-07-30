@@ -1,0 +1,13 @@
+{
+    "volume": 33,
+    "issue": 1,
+    "date": "2024-08-01",
+    "issueTitle": "",
+    "color": "",
+    "articleCategories": ["article"],
+    "editors": [
+        {"role": "Editor-in-Chief", "name": "Micah Torcellini"},
+        {"role": "Web Editor", "name": "Micah Torcellini"}
+    ],
+    "letterurl": "from-the-editor"
+}
