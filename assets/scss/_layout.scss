@@ -29,10 +29,10 @@ body {
 }
 
 .body {
-    border-color: $theme-color;
-    border-width: 0 $border-width;
-    border-style: solid;
-    margin: 0;
+    // border-color: $theme-color;
+    // border-width: 0 $border-width;
+    // border-style: solid;
+    // margin: 0;
     background-color: $background-color;
 }
 
@@ -53,7 +53,7 @@ body {
         content: ": "
     }
     dd::after {
-        content: " ❧ "
+        content: " ● "
     }
     dd:last-child::after {
         content: none;

@@ -3,7 +3,7 @@
 @use "mixins" as *;
 @use "fonts" as *;
 
-$body-text: "EB Garamond", Garamond, Georgia, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", serif;
+$body-text: "Segoe UI", "Open Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 
 :root {
     font-size: 1.2rem;
@@ -24,7 +24,7 @@ hr {
 }
 
 hr::after {
-    content: " ☙ ✾ ❧ "
+    content: " ● ● ● "
 }
 
 p {
@@ -80,7 +80,7 @@ h2 {
     }
 }
 
-.westmarch-header + .subtitle {
+.communicator-header + .subtitle {
     @include font-size(15);
     font-weight: 600;
     margin-top: 0;
@@ -88,11 +88,8 @@ h2 {
     font-style: normal;
 }
 
-.westmarch-header {
+.communicator-header {
     @include font-size(45);
-    text-transform: uppercase;
-    font-family: "Bodoni Moda", Bodoni;
-    font-variation-settings: "opsz" 18;
 }
 
 
@@ -118,15 +115,15 @@ h2 {
 }
 
 // bibliography
-#works-cited + ul, #bibliography + ul, #references + ul {
-    list-style-type: none;
-    padding: 0;
-    li {
-        margin: 1em 0 1em 3em;
-        text-indent: -3em;
-        p {
-            margin: 0;
-            text-align: inherit;
-        }
-    }
-}
+// #works-cited + ul, #bibliography + ul, #references + ul {
+//     list-style-type: none;
+//     padding: 0;
+//     li {
+//         margin: 1em 0 1em 3em;
+//         text-indent: -3em;
+//         p {
+//             margin: 0;
+//             text-align: inherit;
+//         }
+//     }
+// }

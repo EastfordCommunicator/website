@@ -16,7 +16,7 @@ $color-light: var(--color-light);
 $color-dark: var(--color-dark);
 $text-color: var(--text-color);
 $background-color: var(--background-color);
-$header-color: $dark-grey;
+$header-color: var(--theme-color);
 
 :root {
     --theme-color: #{$dark-beige};

@@ -4,7 +4,7 @@
         li {
             display: inline-block;
             &::after {
-                content: " ❧ ";
+                content: " ● ";
             }
             &:last-child::after {
             content: none;
