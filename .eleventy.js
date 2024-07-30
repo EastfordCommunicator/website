@@ -35,8 +35,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("base", "layouts/base.njk");
   eleventyConfig.addLayoutAlias("article", "layouts/article.njk");
 
+  eleventyConfig.addFilter("parseDate", dateObj => {
+   return DateTime.fromISO(dateObj).toJSDate();
+  });
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLLL dd, yyyy");
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toLocaleString(DateTime.DATE_FULL);
   });
   eleventyConfig.addFilter("year", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("yyyy");

@@ -6,7 +6,7 @@ pagination:
 layout: base
 tags: issue
 eleventyComputed:
-  title: "Westmarch vol. {{ issue.volume }}, no. {{ issue.issue }}: {{ issue.issueTitle }}"
+  title: "{{ metadata.title }} vol. {{ issue.volume }}, no. {{ issue.issue }}: {{ issue.issueTitle }}"
 permalink: "/{{ issue.volume }}/{{ issue.issue }}/"
 ---
 <h1>Westmarch vol. {{ issue.volume }}, no. {{ issue.issue }}: {{ issue.issueTitle }}</h1>

@@ -16,6 +16,6 @@ card: "/assets/images/og-image-3.png"
 {% for issue in issues | reverse %}
     <article>
         <h2><a href="/{{ issue.volume }}/{{ issue.issue }}/">
-            vol. {{ issue.volume }}, no. {{ issue.issue }}: {{ issue.issueTitle }}, {{ issue.date }}</a></h2>
+            vol. {{ issue.volume }}, no. {{ issue.issue }}, {{ issue.issueTitle }}, {{ issue.date | parseDate | readableDate }}</a></h2>
     </article>
 {% endfor %}
