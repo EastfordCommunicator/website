@@ -2,6 +2,7 @@
 layout: base
 eleventyComputed:
     pageTitle: "{{ title | striptags}} | {{ metadata.short_title }} vol. {{ volume}}, no. {{ issue }}"
+    tags: ["{{ volume }}_{{ issue }}"]
 ---
 <h1>{{ title | safe | shortTitle }}</h1>
 {% set subtitle = title | safe | subtitle %}

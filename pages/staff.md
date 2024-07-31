@@ -1,7 +1,7 @@
 ---
-title: Editorial Staff
+title: Who We Are
 layout: base
-permalink: "/staff/"
+permalink: "/people/"
 ---
 # Editorial Staff
 

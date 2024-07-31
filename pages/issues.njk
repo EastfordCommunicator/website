@@ -9,40 +9,7 @@ eleventyComputed:
   title: "{{ metadata.title }} vol. {{ issue.volume }}, no. {{ issue.issue }}: {{ issue.issueTitle }}"
 permalink: "/{{ issue.volume }}/{{ issue.issue }}/"
 ---
-<h1>Westmarch vol. {{ issue.volume }}, no. {{ issue.issue }}: {{ issue.issueTitle }}</h1>
-{% if issue.letterurl %}<p><a href="/{{ issue.volume }}/{{ issue.issue }}/{{ issue.letterurl }}/">Letter from the editor</a></p>{% endif %}
-{% for category in issue.articleCategories %}
-{# someday somebody should make nunjucks filter to capitalize each word instead of using CSS... #}
-  <h2 style="text-transform: capitalize">{{ category | capitalize }}</h2>
-  {% set postslist = collections[ category ] %}
-  {# it would be a lot more graceful to use array.prototype.filter and include components/postlist.njk, but this is easier #}
-  {# this should be the exact same code, though, aside for the conditionals #}
-  <ul reversed class="postlist">
-  {% for post in postslist | reverse %}{% if post.data.volume == issue.volume and post.data.issue == issue.issue %}
-    <li class="postlist__item">
-      <a href="{{ post.url | url }}" class="postlist__item__link">{% if post.data.title %}{{ post.data.title | safe }}{% else %}<code>{{ post.url }}</code>{% endif %}, {{ post.data.author }}</a>
-    </li>
-  {% endif %}{% endfor %}
-</ul>
-{% endfor %}
-
-<h2>Editorial Staff</h2>
-<dl class="editor-list">
-  {% for editor in issue.editors %}
-    <dt>{{ editor.role }}</dt>
-    <dd>{{ editor.name }}</dd>
-  {% endfor %}
-</dl>
-<blockquote>
-  {{ issue.quote | safe }}
-  <cite> {{ issue.quoteSource | safe }}</cite>
-</blockquote>
-
-{% if issue.coverImage %}
-  <figure class="image">
-  {% image issue.coverImage, issue.coverImageAlt %}
-  <figcaption><cite>{{ issue.coverImageTitle }}{% if issue.coverImageTitle %}, {% endif %}
-    {% if issue.coverImageAuthor %}{{ issue.coverImageAuthor }}</cite>{% endif %}
-  </figcaption>
-  </figure>
-{% endif %}
+<h1>{{ metadata.title }} vol. {{ issue.volume }}, no. {{ issue.issue }}</h1>
+  {% set collection = issue.volume + "_" + issue.issue %}
+  {% set postlist = collections.article | sortByLayoutNumber %}
+  {% include "components/postlist.njk" %}

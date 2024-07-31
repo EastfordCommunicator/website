@@ -4,7 +4,7 @@ layout: base
 permalink: "/"
 card: "/assets/images/og-image-3.png"
 ---
-<h1 class="westmarch-header">The Eastford Communicator</h1>
+<h1 class="communicator-header">The Eastford Communicator</h1>
 {% for banner in collections.banner %}
     <aside class="banner"><a href="{{ banner.url }}" class="banner_link">
         <h2>{{ banner.data.bannertitle or banner.data.title }}</h2>
@@ -16,6 +16,9 @@ card: "/assets/images/og-image-3.png"
 {% for issue in issues | reverse %}
     <article>
         <h2><a href="/{{ issue.volume }}/{{ issue.issue }}/">
-            vol. {{ issue.volume }}, no. {{ issue.issue }}, {{ issue.issueTitle }}, {{ issue.date | parseDate | readableDate }}</a></h2>
+            vol. {{ issue.volume }}, no. {{ issue.issue }}, {{ issue.date | parseDate | readableDate }}</a></h2>
+            {% set collection = issue.volume + "_" + issue.issue %}
+            {% set postlist = collections.article | sortByLayoutNumber %}
+            {% include "components/postlist.njk" %}
     </article>
 {% endfor %}
