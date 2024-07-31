@@ -3,7 +3,7 @@
 @use "mixins" as *;
 @use "fonts" as *;
 
-$body-text: "Segoe UI", "Open Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+$body-text: Georgia, Times, "Times New Roman", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", serif;
 
 :root {
     font-size: 1.2rem;
@@ -56,21 +56,20 @@ blockquote {
   }
 
 h1, h2, h3 {
-line-height: 1.1;
+    line-height: 1.1;
+    font-weight: normal;
 }
 
 h1 {
     @include font-size(20);
-    font-weight: 500;
 }
 
 h2 {
     @include font-size(15);
-    font-weight: 500;
 }
 
 .author {
-    font-style: italic;
+    font-family: Arial, Helvetica, system-ui;
 }
 
 .subtitle {
@@ -89,7 +88,7 @@ h2 {
 }
 
 .communicator-header {
-    @include font-size(45);
+    @include font-size(30);
 }
 
 
