@@ -1,7 +1,7 @@
 ---
 title: Who We Are
-layout: base
 permalink: "/people/"
+layout: base
 ---
 # Editorial Staff
 

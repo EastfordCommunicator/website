@@ -2,7 +2,6 @@
 title: Submissions
 layout: base
 permalink: "/submissions/"
-bannertext: 
 ---
 # Submissions 
 
