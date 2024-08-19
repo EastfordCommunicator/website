@@ -19,7 +19,7 @@
 {% if card %}
     <meta property="og:image" content="{{ card | url |absoluteUrl(metadata.url) }}">
 {% else %}
-    {% setAsync "ogOutputUrl" -%}
+    {# {% setAsync "ogOutputUrl" -%}
         {% ogImage "./og-image.og.njk", 
             { title: title, 
             author: author, 
@@ -32,7 +32,8 @@
             } 
         %}
     {%- endsetAsync %}
-    <meta property="og:image" content="{{ ogOutputUrl | url | absoluteUrl(metadata.url) }}">
+    <meta property="og:image" content="{{ ogOutputUrl | url | absoluteUrl(metadata.url) }}">#}
+    <meta propert="og:image" content="{{ metadata.defaultImage }}">
 {% endif %}
 <meta property="og:type" content="website" >
 <link rel="canonical" href="{{ page.url | url | absoluteUrl(metadata.url) }}" >
