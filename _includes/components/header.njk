@@ -1,14 +1,12 @@
 <nav class="header">
     <ol class="header-breadcrumbs print-hide">
         {% set continue = true %}
-        <li><a href="/"
+        <li class="header-logo"><a href="/"
             {% if page.url == "/" %}
                 aria-current="page"
                 {% set continue = false %}
             {% endif %}
-            >
-            {{ metadata.title | title }}
-        </a></li>
+            ><img src="/assets/images/header-white.svg" alt="The Eastford Communicator"></a></li>
         {% if issue and continue %}
             <li><a href="/{{ issue.volume or volume }}/{{ issue.issue or issue }}/"
                 {% if tags == "issue" %}

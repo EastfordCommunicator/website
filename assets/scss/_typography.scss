@@ -89,6 +89,10 @@ h2 {
 
 .communicator-header {
     @include font-size(30);
+    text-align: center;
+    img {
+        max-height: 5em;
+    }
 }
 
 

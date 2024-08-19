@@ -1,13 +1,30 @@
 .header, footer {
     ol, ul {
         margin: 0 auto;
+        height: 1.5em;
+        display: flex;
         li {
             display: inline-block;
+            height: 1.5em;
+            margin-right: 0.2em;
             &::after {
                 content: " ● ";
             }
             &:last-child::after {
             content: none;
+            }
+            &.header-logo {
+                margin-right: 1em;
+                &::after {
+                    content: none;
+                }
+            }
+            a {
+                height: fit-content;
+                display: inline-block;
+            }
+            img {
+                height: 1.5em;
             }
         }
     }
