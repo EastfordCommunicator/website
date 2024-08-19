@@ -6,7 +6,7 @@ pagination:
 layout: base
 tags: issue
 eleventyComputed:
-  title: "{{ metadata.title }} vol. {{ issue.volume }}, no. {{ issue.issue }}: {{ issue.issueTitle }}"
+  title: "{{ metadata.title }} vol. {{ issue.volume }}, no. {{ issue.issue }}{% if issue.issueTitle %}: {{ issue.issueTitle }}{% endif %}"
 permalink: "/{{ issue.volume }}/{{ issue.issue }}/"
 ---
 <h1>{{ metadata.title }} vol. {{ issue.volume }}, no. {{ issue.issue }}</h1>
