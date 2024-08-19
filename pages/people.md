@@ -72,7 +72,7 @@ Town Committee (Chair - ongoing), UCONN Biomedical Engineering
 Department Industrial Advisory Board (ongoing), and regional chorus
 Wings of Song Board of Directors (ongoing). He is also the founder of
 [The Connecticut Second Look Sentencing
-Project](file:///C:\Users\chinn\Downloads\CT2ndlook.org). It's mission
+Project](https://www.ct2ndlook.org/). It's mission
 is to enact legislation that mandates the judicialy review of most
 long criminal sentences by a court after a period of 7 years served.
 He presently serves as Constable, Deputy Registrar of Voters, and
