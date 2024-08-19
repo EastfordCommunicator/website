@@ -13,3 +13,6 @@ permalink: "/{{ issue.volume }}/{{ issue.issue }}/"
   {% set collection = issue.volume + "_" + issue.issue %}
   {% set postlist = collections.article | sortByLayoutNumber %}
   {% include "components/postlist.njk" %}
+  {% if issue.pdfUrl %}
+  <p><a href="{{ issue.pdfUrl }}">View as PDF</a></p>
+  {% endif %}
