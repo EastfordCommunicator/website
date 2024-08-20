@@ -36,14 +36,6 @@ body {
     background-color: $background-color;
 }
 
-.header, footer {
-    min-height: $header-height;
-    background-color: $header-color;
-    color: $color-light;
-    padding: $default-padding;
-    padding: ($header-height - $text-size)/2;
-}
-
 .editor-list {
     dt, dd {
         display:inline;

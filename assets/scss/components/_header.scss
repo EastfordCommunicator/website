@@ -1,14 +1,29 @@
+@use "../variables" as *;
+@use "../layout" as *;
+$margin-vertical: 0.5em;
+$margin-horizontal: 0.2em;
+$header-padding: ($header-height - $text-size)/2;
 .header, footer {
+    min-height: $header-height;
+    background-color: $header-color;
+    color: $color-light;
+    padding: $header-padding calc($header-padding + ($margin-vertical - $margin-horizontal));
+    p {
+        padding: 0;
+        margin: $margin-vertical $margin-horizontal;
+    }
     ol, ul {
         margin: 0 auto;
+        padding: 0;
         display: flex;
         flex-wrap: wrap;
         height: fit-content;
         justify-content: flex-start;
+        flex-direction: row;
         li {
             display: inline-block;
             height: fit-content;
-            margin-right: 0.2em;
+            margin: $margin-vertical $margin-horizontal;
             &::after {
                 content: " ● ";
             }
@@ -29,5 +44,21 @@
                 height: 1.5em;
             }
         }
+        @media (max-width: 40em) {
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            & li::after {
+                content: none;
+            }
+        }
     }
+}
+
+
+.header {
+    --breakpoint: 35em;
+}
+.footer {
+    --breakpoint: 50em;
 }

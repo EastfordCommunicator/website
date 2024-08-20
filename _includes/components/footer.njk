@@ -5,8 +5,8 @@
         <li class="print-hide"><a href="/submissions/">Submissions</a></li>
         <li class="print-hide"><a href="/people/">Who We Are</a></li>  
         <li class="print-hide"><a href="/feed.xml">Feed</a></li>
-        <li>Copyright {{ page.date | year }} {% if author %}{{ author }} and {% endif %}{{ metadata.title }}</li>
-        <li class="print-hide">Website by <a href="https://micah.torcellini.org">Micah Torcellini</a></li>
     </ul>
+    <p>Copyright {{ page.date | year }} {% if author %}{{ author }} and {% endif %}{{ metadata.title }}</p>
+    <p class="print-hide">Website by <a href="https://micah.torcellini.org">Micah Torcellini</p></li>
     <ul class="screen-hide"><li>{{ metadata.citationurl }}{{ page.url | url }}</ul>
 </footer>
