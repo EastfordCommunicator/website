@@ -76,7 +76,12 @@ module.exports = function(eleventyConfig) {
     return product
   });
   eleventyConfig.addFilter("sortByLayoutNumber", function(collection) {
-    collection.sort((a, b) => a.int(layoutNumber) - b.int(layoutNumber))
+    try {
+      collection.sort((a, b) => a.int(layoutNumber) - b.int(layoutNumber))
+    }
+    catch {
+      collection = collection
+    }
     return collection;
   })
 

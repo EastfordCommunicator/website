@@ -10,9 +10,15 @@ eleventyComputed:
 permalink: "/{{ issue.volume }}/{{ issue.issue }}/"
 ---
 <h1>{{ metadata.title }} vol. {{ issue.volume }}, no. {{ issue.issue }}</h1>
-  {% set collection = issue.volume + "_" + issue.issue %}
   {% set postlist = collections.article | sortByLayoutNumber %}
-  {% include "components/postlist.njk" %}
+  <ul class="postlist">
+  {% for post in postlist | reverse %}{% if post.data.volume == issue.volume and post.data.issue == issue.issue %}
+    <li class="postlist__item"><article>
+      <h3 class="postlist__item__title"><a href="{{ post.url | url }}" class="postlist__item__link"><span class="postlist__item__title">{% if post.data.title %}{{ post.data.title | safe }}{% else %}<code>{{ post.url }}</code>{% endif %}</span>, <span class="postlist__item__author">{{ post.data.author }}</span></a></h3>
+      <p>{{ post.content | excerpt }}</p>
+    </article></li>
+  {% endif %}{% endfor %}
+  </ul>
   {% if issue.pdfUrl %}
   <p><a href="{{ issue.pdfUrl }}">View as PDF</a></p>
   {% endif %}
