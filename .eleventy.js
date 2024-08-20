@@ -76,12 +76,14 @@ module.exports = function(eleventyConfig) {
     return product
   });
   eleventyConfig.addFilter("sortByLayoutNumber", function(collection) {
-    try {
-      collection.sort((a, b) => a.int(layoutNumber) - b.int(layoutNumber))
-    }
-    catch {
-      collection = collection
-    }
+    collection.sort(function (a, b) {
+      if (a.data.layoutNumber && b.data.layoutNumber) {
+        return b.data.layoutNumber - a.data.layoutNumber
+      }
+      else {
+        return 0
+      }
+    })
     return collection;
   })
 
@@ -90,7 +92,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addShortcode("citation", require("./_11ty/citation.js"));
   // https://github.com/KiwiKilian/eleventy-plugin-og-image/issues/36
   // I just ended up using a remote image, so this is not necessary (it didn't 
-  // work either). A better solution might be able to be found. 
+  // work either). A better solution might be able to be found.  
   // eleventyConfig.addShortcode("inlineImage", (path) => {
   //   const file = fs.readFileSync(path);
   //   return `data:image/jpeg;base64,${file.toString('base64')}`;

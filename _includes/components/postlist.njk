@@ -1,7 +1,7 @@
 <ul reversed class="postlist">
 {% for post in postlist | reverse %}
     <li class="postlist__item"><article>
-      <h3><a href="{{ post.url | url }}" class="postlist__item__link"><span class="postlist__item__title">{% if post.data.title %}{{ post.data.title | safe }}{% else %}<code>{{ post.url }}</code>{% endif %}</span>, <span class="postlist__item__author">{{ post.data.author }}</span></a></h3>
+      <h3><a href="{{ post.url | url }}" class="postlist__item__link"><span class="postlist__item__title">{% if post.data.title %}{{ post.data.title | safe }}{% else %}<code>{{ post.url }}</code>{% endif %}</span>{% if post.data.author %}, <span class="postlist__item__author">{{ post.data.author }}</span>{% endif %}</a></h3>
       <p>{{ post.content | excerpt }}</p>
     </article></li>
   {% endfor %}
