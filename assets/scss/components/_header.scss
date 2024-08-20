@@ -1,11 +1,13 @@
 .header, footer {
     ol, ul {
         margin: 0 auto;
-        height: 1.5em;
         display: flex;
+        flex-wrap: wrap;
+        height: fit-content;
+        justify-content: flex-start;
         li {
             display: inline-block;
-            height: 1.5em;
+            height: fit-content;
             margin-right: 0.2em;
             &::after {
                 content: " ● ";
