@@ -1,5 +1,5 @@
 # *Communicator* Website
-(modified from *Westmarch* Website)
+Website for the [Eastford Communicator](https://eastford.news)
 
 ## Structure
 Organize articles into volumes and issues. Put links to PDF files on the homepage for each issue. This will probably require a JSON file for each issue (or can I do it with special front matter in the editor's letter?). 
