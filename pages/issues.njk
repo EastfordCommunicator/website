@@ -10,6 +10,7 @@ eleventyComputed:
 permalink: "/{{ issue.volume }}/{{ issue.issue }}/"
 ---
 <h1>{{ metadata.title }} vol. {{ issue.volume }}, no. {{ issue.issue }}</h1>
+  <p><a href="{{ issue.pdfUrl }}">View as PDF</a></p>
   {% set postlist = collections.article | sortByLayoutNumber %}
   <ul class="postlist">
   {% for post in postlist | reverse %}{% if post.data.volume == issue.volume and post.data.issue == issue.issue %}
@@ -20,5 +21,4 @@ permalink: "/{{ issue.volume }}/{{ issue.issue }}/"
   {% endif %}{% endfor %}
   </ul>
   {% if issue.pdfUrl %}
-  <p><a href="{{ issue.pdfUrl }}">View as PDF</a></p>
   {% endif %}
