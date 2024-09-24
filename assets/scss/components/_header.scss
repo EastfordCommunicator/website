@@ -3,14 +3,30 @@
 $margin-vertical: 0.5em;
 $margin-horizontal: 0.2em;
 $header-padding: ($header-height - $text-size)/2;
+$breakpoint: 40rem;
+
 .header, footer {
     min-height: $header-height;
     background-color: $header-color;
     color: $color-light;
     padding: $header-padding calc($header-padding + ($margin-vertical - $margin-horizontal));
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    @media (max-width: $breakpoint) {
+        flex-direction: column;
+    }
     p {
         padding: 0;
         margin: $margin-vertical $margin-horizontal;
+    }
+    @media (min-width: $breakpoint) {
+        .header-breadcrumbs {
+            margin-inline-start: 0.5em;
+        }
+        .header-menu {
+            margin-inline-end: 0.5em;
+        }
     }
     ol, ul {
         margin: 0 auto;
@@ -20,6 +36,9 @@ $header-padding: ($header-height - $text-size)/2;
         height: fit-content;
         justify-content: flex-start;
         flex-direction: row;
+        flex-wrap: nowrap;
+        min-width: fit-content;
+        white-space: nowrap;
         li {
             display: inline-block;
             height: fit-content;
@@ -32,6 +51,9 @@ $header-padding: ($header-height - $text-size)/2;
             }
             &.header-logo {
                 margin-right: 1em;
+                img {
+                     min-width: 100%;
+                }
                 &::after {
                     content: none;
                 }
@@ -44,10 +66,11 @@ $header-padding: ($header-height - $text-size)/2;
                 height: 1.5em;
             }
         }
-        @media (max-width: 40em) {
+        @media (max-width: $breakpoint) {
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            white-space: normal;
             & li::after {
                 content: none;
             }
@@ -59,6 +82,7 @@ $header-padding: ($header-height - $text-size)/2;
 .header {
     --breakpoint: 35em;
 }
-.footer {
+footer {
+    flex-direction: column;
     --breakpoint: 50em;
 }
