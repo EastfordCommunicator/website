@@ -4,6 +4,9 @@ $margin-vertical: 0.5em;
 $margin-horizontal: 0.2em;
 $header-padding: ($header-height - $text-size)/2;
 $breakpoint: 40rem;
+$button-color: rgb(244, 244, 242);
+$svg-open: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#{$button-color}" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>');
+$svg-closed: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#{$button-color}" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>');
 
 .header, footer {
     min-height: $header-height;
@@ -26,6 +29,9 @@ $breakpoint: 40rem;
             transform-origin: top;
             transform: scaleY(1);
         }
+        button {
+            display: none;
+        }
     }
     @media (max-width: $breakpoint) {
         .header-menu {
@@ -33,7 +39,15 @@ $breakpoint: 40rem;
         }
     }
     button {
-        flex-grow: 1;
+        height: 1.5em;
+        width: 1.5em;
+        margin: auto 0;
+        background-image: $svg-open;
+        background-color: transparent;
+        border: none;
+        &.-open {
+            background-image: $svg-closed;
+        }
     }
     ol, ul {
         margin: 0 auto;

@@ -21,7 +21,7 @@
         {% endif %}
     </ol>
 
-    <button id="toggle">click</button>
+    <button id="toggle" aria-label="toggle menu"></button>
     <ul class="header-menu" id="menu">
         <li class="print-hide"><a href="/donate/">Support</a></li>
         <li class="print-hide"><a href="/subscribe/">Subscribe</a></li>
@@ -35,7 +35,7 @@
         menu.setAttribute("data-closed", "")
         button.addEventListener("click", function() {
             menu.toggleAttribute("data-closed");
-        button.classList.toggle("-open");
+            button.classList.toggle("-open");
         });
     </script>
 </nav>
