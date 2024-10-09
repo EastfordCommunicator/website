@@ -28,6 +28,7 @@ $svg-closed: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg
             margin-inline-end: 0.5em;
             transform-origin: top;
             transform: scaleY(1);
+            justify-content: flex-end;
         }
         button {
             display: none;
@@ -60,7 +61,6 @@ $svg-closed: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg
         flex-wrap: nowrap;
         min-width: fit-content;
         white-space: nowrap;
-        flex-grow: 3;
         li {
             display: inline-block;
             height: fit-content;
