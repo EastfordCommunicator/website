@@ -13,9 +13,6 @@ $breakpoint: 40rem;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    @media (max-width: $breakpoint) {
-        flex-direction: column;
-    }
     p {
         padding: 0;
         margin: $margin-vertical $margin-horizontal;
@@ -26,7 +23,17 @@ $breakpoint: 40rem;
         }
         .header-menu {
             margin-inline-end: 0.5em;
+            transform-origin: top;
+            transform: scaleY(1);
         }
+    }
+    @media (max-width: $breakpoint) {
+        .header-menu {
+            flex-basis: 100%;
+        }
+    }
+    button {
+        flex-grow: 1;
     }
     ol, ul {
         margin: 0 auto;
@@ -39,6 +46,7 @@ $breakpoint: 40rem;
         flex-wrap: nowrap;
         min-width: fit-content;
         white-space: nowrap;
+        flex-grow: 3;
         li {
             display: inline-block;
             height: fit-content;
@@ -85,4 +93,14 @@ $breakpoint: 40rem;
 footer {
     flex-direction: column;
     --breakpoint: 50em;
+}
+
+@media (max-width: $breakpoint) {
+    #menu[data-closed] {
+        transform: scaleY(0);
+        height: 0;
+    }
+    // :has([data-closed]) {
+    //     height: 3.9em;
+    // }
 }

@@ -20,11 +20,22 @@
             <li><a href="{{ page.url }}" aria-current="page">{{ title | safe }}</a></li>
         {% endif %}
     </ol>
-    <ul class="header-menu">
+
+    <button id="toggle">click</button>
+    <ul class="header-menu" id="menu">
         <li class="print-hide"><a href="/donate/">Support</a></li>
         <li class="print-hide"><a href="/subscribe/">Subscribe</a></li>
         <li class="print-hide"><a href="/advertise/">Advertise</a></li>
         <li class="print-hide"><a href="/submissions/">Submissions</a></li>
         <li class="print-hide"><a href="/people/">Who We Are</a></li>  
     </ul>
+        <script>
+        var button = document.querySelector("#toggle");
+        var menu = document.querySelector("#menu");
+        menu.setAttribute("data-closed", "")
+        button.addEventListener("click", function() {
+            menu.toggleAttribute("data-closed");
+        button.classList.toggle("-open");
+        });
+    </script>
 </nav>
