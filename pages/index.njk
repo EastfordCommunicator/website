@@ -12,12 +12,23 @@ permalink: "/"
 {% endfor %}
 
 {% set issues = fetchIssues  %}
-{% for issue in issues | reverse %}
+<section id="current">
+    {% set currentIssue = issues[0] %}
     <article>
-        <h2><a href="/{{ issue.volume }}/{{ issue.issue }}/">
-            vol. {{ issue.volume }}, no. {{ issue.issue }}, {{ issue.date | parseDate | readableDate }}</a></h2>
-            {% set collection = issue.volume + "_" + issue.issue %}
+    <h2><a href="/{{ currentIssue.volume }}/{{ currentIssue.issue }}/">
+            vol. {{ currentIssue.volume }}, no. {{ currentIssue.issue }}, {{ currentIssue.date | parseDate | readableDate }}</a></h2>
+            {% set collection = currentIssue.volume + "_" + currentIssue.issue %}
             {% set postlist = collections.article | sortByLayoutNumber %}
             {% include "components/postlist.njk" %}
     </article>
+</section>
+<section id="archive">
+    <h2>Archived Issues</h2>
+{% for issue in issues | reverse %}
+    <article>
+        <h3><a href="/{{ issue.volume }}/{{ issue.issue }}/">
+            vol. {{ issue.volume }}, no. {{ issue.issue }}, {{ issue.date | parseDate | readableDate }}</a></h2>
+            {% set collection = issue.volume + "_" + issue.issue %}
+    </article>
 {% endfor %}
+</section>
