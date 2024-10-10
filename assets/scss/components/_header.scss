@@ -51,7 +51,10 @@ button {
         width: 1.5em;
         margin: auto 0;
         background-image: $svg-open;
+        background-position: center;
+        background-repeat: no-repeat;
         background-color: transparent;
+        background-size: cover;
         border: none;
         &.-open {
             background-image: $svg-closed;
