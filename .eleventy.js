@@ -131,6 +131,7 @@ module.exports = function(eleventyConfig) {
   let markdownItDeflist = require("markdown-it-deflist");
   let markdownItFootnote = require('markdown-it-footnote');
   let markdownItAttrs = require("markdown-it-attrs");
+  let markdownItSup = require('markdown-it-sup');
   let markdownItResponsive = require("./_11ty/markdownItResponsive.js");
   let mdOptions = {
     html: true,
@@ -153,6 +154,7 @@ module.exports = function(eleventyConfig) {
     .use(markdownItDeflist)
     .use(markdownItAttrs)
     .use(markdownItFootnote)
+    .use(markdownItSup)
     .use(markdownItResponsive, riOptions);
 
   eleventyConfig.setLibrary("md", md);
