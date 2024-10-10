@@ -41,6 +41,8 @@ button {
     @media (max-width: $breakpoint) {
         .header-menu {
             flex-basis: 100%;
+        }
+        .header-breadcrumbs {
             max-width: calc(100% - (1.5em + 2 * 1rem))
         }
     }
