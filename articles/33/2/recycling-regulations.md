@@ -1,6 +1,7 @@
-HEAD:\
-New recycling regulations announced
-
+---
+title: New Recycling Regulations Announced
+author: Board of Selectmen
+---
 EASTFORD --- The Town of Eastford contracts with Casella Waste Systems
 in Willimantic, CT, for hauling and disposal of trash and recyclables
 from the Transfer Station. Casella offers significant municipal rebates

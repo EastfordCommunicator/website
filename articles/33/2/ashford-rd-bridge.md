@@ -1,6 +1,8 @@
-HEAD: Ashford Road bridge project slated for 2027
-
-SUB HEAD: Traffic to be detoured for months during bridge reconstruction
+---
+title: "Ashford Road bridge project slated for 2027"
+layoutNumber: 
+---
+*Traffic to be detoured for months during bridge reconstruction*
 
 EASTFORD --- The bridge over Bigelow Brook on Ashford Road has stood
 firm since 1937. In 2027, 90 years after it first was constructed, it
@@ -91,9 +93,6 @@ construction easement (1 property), along with rights to install gravel
 pull-offs, relocate a trail, removing and resetting stone walls,
 installing sediment control systems, and reconstructing a driveway.
 
-Video of the July 16 meeting may be viewed at
-<https://youtu.be/Yz8SH9Dik70?si=ORpUv_Ema6x8I1Qx>. Project plans may be
-viewed at
-<https://portal.ct.gov/-/media/dot/documents/dprojects/project0038-0085/0038-0085_display_boards.pdf>.
-The project's official CT DOT website can be viewed at
-<http://portal.ct.gov/doteastford38-85>.
+[Video of the July 16 meeting may be viewed here](https://youtu.be/Yz8SH9Dik70?si=ORpUv_Ema6x8I1Qx). [Project plans may be
+viewed here](https://portal.ct.gov/-/media/dot/documents/dprojects/project0038-0085/0038-0085_display_boards.pdf).
+[The project's official CT DOT website can be viewed here](http://portal.ct.gov/doteastford38-85).

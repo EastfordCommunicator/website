@@ -1,6 +1,6 @@
-TOWN OF EASTFORD
-
-WARNING OF SPECIAL TOWN MEETING
+---
+title: Warning of Special Town Meeting
+---
 
 The legal voters and those qualified to vote at town meetings of the
 Town of Eastford, Connecticut are hereby warned that a Special Town
@@ -32,7 +32,7 @@ ordinances pertaining to the establishment and membership of the
 Planning Commission of the Town of Eastford, which disqualifies electors
 holding salaried Town Office, from membership on said Commission."
 
-To vote to approve a special appropriation of \$20,000, originally
+To vote to approve a special appropriation of $20,000, originally
 approved in 2021 to breach the Trout Dam, be re-appropriated for a
 revised Trout Dam project to modify and not breach the Trout Dam at
 Crystal Pond Park.

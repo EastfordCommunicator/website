@@ -1,4 +1,7 @@
-**ASSESSOR'S NOTICE TO TAXPAYERS**
+---
+title: Assessor's Notice to Taxpayers
+author: Mary Hawley
+---
 
 All persons liable to pay taxes are hereby notified to declare all
 tangible personal property owned by them as of October 1^st^. CGS
@@ -82,6 +85,6 @@ than May 15^th^.
 
 .
 
-***Most applications can be found on our town website.***
+***[Most applications can be found on our town website.](https://www.eastfordct.gov/assessor)***
 
 **FOR QUESTIONS ON ANY OF THESE PROGRAMS PLEASE CALL 228-9555.**
