@@ -1,6 +1,7 @@
 ---
 title: EIFC Update
 author: Jeannine Spink
+layoutNumber: 35
 ---
 
 Emergency responses have increased. July -- 18 responses - August -- 18

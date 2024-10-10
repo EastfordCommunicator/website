@@ -1,5 +1,6 @@
 ---
 title: Vital Statistics
+layoutNumber: 67
 ---
 
 *Vital statistics and real estate transactions are provided monthly by

@@ -1,5 +1,6 @@
 ---
 title: Early Voting Dates Announced
+layoutNumber: 6
 ---
 EASTFORD --- The following dates for both early voting and general
 elections have been announced for October and November.

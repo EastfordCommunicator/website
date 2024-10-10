@@ -1,6 +1,7 @@
 ---
 title: Tips for Today
 author: Liz Ellsworth
+layoutNumber: 60
 ---
 
 Calling all Pumpkins!

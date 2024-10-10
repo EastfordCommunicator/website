@@ -1,6 +1,7 @@
 ---
 title: Congregational Church of Eastford Update
 author: Michael Moran
+layoutNumber: 41
 ---
 
 The Congregational Church of Eastford offers programs open to the

@@ -1,6 +1,7 @@
 ---
 title: Assessor's Notice to Taxpayers
 author: Mary Hawley
+layoutNumber: 70
 ---
 
 All persons liable to pay taxes are hereby notified to declare all

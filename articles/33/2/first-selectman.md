@@ -1,6 +1,7 @@
 ---
 title: From the First Selectman
 author: Deb Richards
+layoutNumber: 55
 ---
 
 Too often, we do not take the time to thank the people who share their

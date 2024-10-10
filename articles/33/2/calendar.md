@@ -1,6 +1,6 @@
 ---
 title: Calendar
-layoutNumber: 50
+layoutNumber: 30
 ---
 ## Ongoing
 

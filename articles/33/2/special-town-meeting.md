@@ -1,5 +1,6 @@
 ---
 title: Warning of Special Town Meeting
+layoutNumber: 90
 ---
 
 The legal voters and those qualified to vote at town meetings of the

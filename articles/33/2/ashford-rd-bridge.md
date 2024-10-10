@@ -1,6 +1,6 @@
 ---
 title: "Ashford Road bridge project slated for 2027"
-layoutNumber: 
+layoutNumber: 3
 ---
 *Traffic to be detoured for months during bridge reconstruction*
 

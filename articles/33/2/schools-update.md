@@ -1,6 +1,7 @@
 ---
 title: From the Superintendent
 author: Donna Leake
+layoutNumber: 50
 ---
 
 The transition from summer to fall has been a busy and very rewarding

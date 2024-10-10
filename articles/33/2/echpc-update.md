@@ -1,7 +1,7 @@
-
 ---
 title: Eastford Conservation and Historic Preservation Commission Update
 author: Conservation and Historic Preservation Commission
+layoutNumber: 20
 ---
 
 The Eastford Conservation and Historic Preservation Commission is a

@@ -1,6 +1,7 @@
 ---
 title: Eastford Food Pantry Update
 author: Audrey Carabeau
+layoutNumber: 75
 ---
 
 The Eastford Food Pantry is seeking individuals or families who reside

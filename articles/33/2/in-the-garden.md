@@ -1,6 +1,7 @@
 ---
 title: In The Garden
 author: Susan Burns
+layoutNumber: 62
 ---
 
 As we transition to autumn, let's hope for cooler, drier days in which
