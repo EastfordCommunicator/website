@@ -8,6 +8,10 @@ $button-color: rgb(244, 244, 242);
 $svg-open: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#{$button-color}" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>');
 $svg-closed: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#{$button-color}" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>');
 
+button {
+    display: block;
+}
+
 .header, footer {
     min-height: $header-height;
     background-color: $header-color;
@@ -37,6 +41,7 @@ $svg-closed: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg
     @media (max-width: $breakpoint) {
         .header-menu {
             flex-basis: 100%;
+            max-width: calc(100% - (1.5em + 2 * 1rem))
         }
     }
     button {
@@ -59,7 +64,7 @@ $svg-closed: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg
         justify-content: flex-start;
         flex-direction: row;
         flex-wrap: nowrap;
-        min-width: fit-content;
+        width: fit-content;
         white-space: nowrap;
         li {
             display: inline-block;
