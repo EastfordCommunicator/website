@@ -9,7 +9,7 @@ ytEmbed: link
 	<subtitle>{{ metadata.feed.subtitle }}</subtitle>
 	<link href="{{ metadata.feed.url | absoluteUrl(metadata.url) }}" rel="self"/>
 	<link href="{{ metadata.url }}"/>
-	<updated>{{ collections.articles | rssLastUpdatedDate }}</updated>
+	<updated>{{ collections.articles | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
 	<id>{{ metadata.url }}</id>
 	{%- for post in collections.article | reverse %}
 	{# maybe I can use this later to limit by issue #}
@@ -19,7 +19,7 @@ ytEmbed: link
 		<entry>
 			<title>{{ post.data.title | striptags }}</title>
 			<link href="{{ absolutePostUrl }}"/>
-			<updated>{{ post.date | rssDate }}</updated>
+			<updated>{{ post.date | dateToRfc3339 }}</updated>
 			<id>{{ absolutePostUrl }}</id>
 			<author><name>{{ post.data.author }}</name></author>
 			<content type="html">
