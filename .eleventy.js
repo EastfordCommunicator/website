@@ -5,8 +5,9 @@ const slugify = require("slugify");
 const splitTitle = require("./_11ty/splitTitle.js");
 const excerpt = require("./_11ty/excerpt.js")
 const striptags = require("striptags");
-const EleventyPluginOgImage = require('eleventy-plugin-og-image');
+// const EleventyPluginOgImage = require('eleventy-plugin-og-image');
 const Image = require("@11ty/eleventy-img");
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -31,7 +32,8 @@ module.exports = function(eleventyConfig) {
          ],
      },
  }
- eleventyConfig.addPlugin(EleventyPluginOgImage, OgImageOptions);
+// eleventyConfig.addPlugin(EleventyPluginOgImage, OgImageOptions);
+ eleventyConfig.addPlugin(UpgradeHelper);
 
   eleventyConfig.addLayoutAlias("base", "layouts/base.njk");
   eleventyConfig.addLayoutAlias("article", "layouts/article.njk");
