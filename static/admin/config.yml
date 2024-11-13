@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: username/repo
+  repo: EastfordCommunicator/website/
   branch: main # Branch to update (optional; defaults to master)
   site_domain: https://decap-cms.eastford-communicator.pages.dev
   base_url: https://decap-cms.eastford-communicator.pages.dev
