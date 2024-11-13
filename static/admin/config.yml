@@ -27,6 +27,9 @@ collections:
     slug: '{{slug}}'
     editor:
       preview: false
+    nested:
+      depth: 2
+      summary: 'vol/no/{{title}}' 
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Author', name: 'author', widget: 'string' }
