@@ -29,7 +29,7 @@ collections:
       preview: false
     nested:
       depth: 4
-      summary: 'vol/no/{{title}}' 
+      summary: '{{title}}' 
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Author', name: 'author', widget: 'string' }
