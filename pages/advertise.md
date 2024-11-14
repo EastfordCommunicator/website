@@ -1,7 +1,8 @@
 ---
 title: Advertise with the Communicator
 layout: base
-permalink: "/advertise/"
+date: 2024-11-14T02:48:44.196Z
+permalink: /advertise/
 ---
 # Advertising Rate Sheet
 
