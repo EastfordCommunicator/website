@@ -2,7 +2,7 @@
 layout: base
 eleventyComputed:
     pageTitle: "{{ title | striptags }}"
-    tags: [" "post"]
+    tags: ["post"]
     permalink: "/news/{{ page.date | date: '%Y/%m/%d' }}/{{ page.fileSlug }}/"/"
 ---
 <h1>{{ title | safe  }}</h1>

@@ -47,7 +47,6 @@ collections:
     editor:
       preview: false
     nested:
-      depth: 3
       summary: '{{title}}' 
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
