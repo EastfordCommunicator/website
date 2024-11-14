@@ -1,0 +1,21 @@
+---
+layout: base
+eleventyComputed:
+    pageTitle: "{{ title | striptags }}"
+    tags: [" "post"]
+    permalink: "/news/{{ page.date | date: '%Y/%m/%d' }}/{{ page.fileSlug }}/"/"
+---
+<h1>{{ title | safe  }}</h1>
+{% set subtitle = title | safe | subtitle %}
+{% if subtitle %}
+    <p class="subtitle">{{ subtitle | safe }}</p>
+{% endif %}
+<p class="author name"><a href="/authors/{{ author | slugify }}/">{{ author }}</a></p>
+<p>{{ page.date | readableDate }}
+{{ content | safe }}
+{% if authordescription %}
+<p class="author description">{{ authordescription }}</p>
+{% endif %}
+{% if collections.article | filterByAuthor( author ) | length > 1 and author %}
+<p><a href="/authors/{{ author | slugify }}/">Read more of this author's articles.</a></p>
+{% endif %}
