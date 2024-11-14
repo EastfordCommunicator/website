@@ -46,8 +46,6 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
-    nested:
-      summary: '{{title}}' 
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Author', name: 'author', widget: 'string' }
