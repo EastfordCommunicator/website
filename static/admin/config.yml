@@ -1,9 +1,9 @@
 backend:
   name: github
   repo: EastfordCommunicator/website
-  branch: decap-cms # Branch to update (optional; defaults to master)
-  site_domain: https://decap-cms.eastford-communicator.pages.dev
-  base_url: https://decap-cms.eastford-communicator.pages.dev
+  branch: master# Branch to update (optional; defaults to master)
+  site_domain: https://eastford.news
+  base_url: https://eastford.news
   auth_endpoint: /api/auth
 media_folder: assets/images
 public_folder: assets/images
