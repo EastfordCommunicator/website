@@ -1,6 +1,7 @@
-**From the First Selectman**
-
-**Deb Richards**
+---
+title: From the First Selectman
+author: Deb Richards
+---
 
 Governor Ned Lamont signed early voting legislation in May 2023. This
 piece of legislation became effective for any elections after Jan. 1,
@@ -49,23 +50,16 @@ Eastford!
 If you would like to get involved in helping your town, join a committee
 or commission and make a difference!
 
-• Senior Citizens Committee --- Michelle Palulis,
-michele\@attorneypalulis.com
-
-• Inlands Wetlands Committee --- landuse\@eastfordct.gov
-
-• Planning --- landuse\@eatfordct.gov
-
-• Conservation and Historic Preservation --- Roger Wolfe,
-emily.heyse\@eastfordct.com
-
-• Recreation Commission --- recofeastford\@gmail.com or
-mltmoran\@gmail.com
-
-• Transfer Station Committee --- christine.hustus\@eastfordct.gov
-
-• Bowens Field Committee --- emily.heyse\@eastfordct.gov
-
-• Emergency Management --- deborah.richards\@eastfordct.gov
+- Senior Citizens Committee --- Michelle Palulis,
+[michele@attorneypalulis.com](mailto:michele@attorneypalulis.com)
+- Inlands Wetlands Committee --- [landuse@eastfordct.gov](mailto:landuse@eastfordct.gov)
+- Planning --- [landuse@eatfordct.gov](mailto:landuse@eatfordct.gov)
+- Conservation and Historic Preservation --- Roger Wolfe,
+[emily.heyse@eastfordct.com](mailto:emily.heyse@eastfordct.com)
+- Recreation Commission --- [recofeastford@gmail.com](mailto:recofeastford@gmail.com) or
+[mltmoran@gmail.com](mailto:mltmoran@gmail.com)
+- Transfer Station Committee --- [christine.hustus@eastfordct.gov](mailto:christine.hustus@eastfordct.gov)
+- Bowens Field Committee --- [emily.heyse@eastfordct.gov](mailto:emily.heyse@eastfordct.gov)
+- Emergency Management --- [deborah.richards@eastfordct.gov](mailto:deborah.richards@eastfordct.gov)
 
 Wishing you and yours a happy holiday season!
