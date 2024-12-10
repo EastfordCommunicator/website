@@ -1,14 +1,8 @@
-**COMMUNICATOR CONVERSATIONS**
-
-HEAD: Ball debuts as new library director
-
-SUB HEAD: 'I've been welcomed with open arms'
-
-JUMP HEAD: Ball looking forward to tenure as town's library director
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+---
+title: Ball debuts as new library director
+author: Adam Minor
+---
+*Ball looking forward to tenure as town's library director*
 
 EASTFORD --- Katie Ball has always loved to read. As it turns out, that
 love of reading has manifested itself into a new role as the director of
@@ -19,6 +13,8 @@ acclimating to her new job.
 Ball has been a resident of Eastford for the past four years, previously
 living in Brooklyn and Killingly. She has two daughters, fourth-grader
 Rory, 9, and first-grader Reese, 6.
+
+![Katie Ball posing for a picture in the library, wearing a cardigan and smiling, with bookshelves, flowers, and a window in the background](/assets/images/33-3-katie-ball.jpg)
 
 The *Communicator* sat down with Ball last month to talk about getting
 her feet wet at the library, her background, what being library director
