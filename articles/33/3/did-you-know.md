@@ -1,6 +1,7 @@
-**Did You Know?**
-
-**Eastford Historical Society**
+---
+title: Did You Know?
+author: Eastford Historical Society
+---
 
 Did you know that the first settler of Eastford was Captain John Perry
 of Marlborough, Mass.?
