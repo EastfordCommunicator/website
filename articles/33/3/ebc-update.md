@@ -1,8 +1,7 @@
-**The Pastor's Pen**
-
-**Timothy Howard Jr.**
-
-**Eastford Baptist Church**
+---
+title: The Pastor's Pen, Eastford Baptist Church
+author: Timothy Howard Jr.
+---
 
 As we move from Thanksgiving into the busy holiday season, it's easy to
 let the spirit of gratitude fade away. While Christmas decorations go up

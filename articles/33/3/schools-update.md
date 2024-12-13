@@ -1,6 +1,7 @@
-**From the Superintendent**
-
-**Donna Leake**
+---
+title: From the Superintendent
+author: Donna Leake
+---
 
 It is hard to believe we are already beginning the fourth month of the
 "new" school year. Together, our learning community has already
@@ -13,21 +14,16 @@ our students.
 December will be a busy month at Eastford Elementary School. Activities
 include opportunities for parent teacher conferences, the Scholastic
 Book Fair sponsored by the PTO, and the Winter Concert. Please refer to
-the monthly Principal Newsletters located in the For Families section
-(https://www.eastfordct.org/for-families/newsletters/) of our webpage.
+the monthly [Principal Newsletters located in the For Families section of our webpage](https://www.eastfordct.org/for-families/newsletters/).
 
 At the November Board of Education (BOE) meeting, the administration
 presented the District Annual Report, the 2024-25 Leadership Goals and
 the updated Eastford Strategic Plan to the BOE. The BOE accepted the
 Annual Report, approved the Leadership Goals and plans to review the
-Strategic Plan at its December meeting. Copies of these documents can be
-found on the About Us section
-(https://www.eastfordct.org/about-us-contact/mission-goals/) of our
-website. The BOE approved several policy revisions and approved the
+Strategic Plan at its December meeting. 
+[Copies of these documents can be found on the About Us section of our website](https://www.eastfordct.org/about-us-contact/mission-goals/). The BOE approved several policy revisions and approved the
 transfers of funds recommended by the administration. Details as to the
-policies and transfers are included in the minutes of the BOE located in
-the Board of Education section
-(https://www.eastfordct.org/board/agendas-and-minutes/) of our website.
+policies and transfers are included in [the minutes of the BOE located in the Board of Education section of our website](https://www.eastfordct.org/board/agendas-and-minutes/).
 
 In addition to their work as a full BOE, our members serve on several
 subcommittees. In November the Policy Committee resumed the process of
@@ -54,6 +50,6 @@ for submission to the town.
 
 As we are preparing to say goodbye to 2024, I wish you all the best for
 a rewarding and safe 2025. As always, you are invited to contact me at
-dleake\@eastfordct.org to ask a question, share a concern or to schedule
+[dleake@eastfordct.org](mailto:dleake@eastfordct.org) to ask a question, share a concern or to schedule
 an appointment. I hope to see you at the December BOE meeting to share
 your thoughts regarding the 2025-26 school budget.

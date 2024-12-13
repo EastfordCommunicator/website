@@ -1,4 +1,7 @@
-**From the Grove Cemetery Association Board of Trustees**
+---
+title: Grove Cemetery Update
+author: Grove Cemetery Board of Trustees
+---
 
 In the spirit of this Thanksgiving season, the Eastford Grove Cemetery
 Association extends its sincere thanks to several groups.

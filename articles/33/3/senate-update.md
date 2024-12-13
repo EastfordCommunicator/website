@@ -1,6 +1,7 @@
-**Legislative Update**
-
-**State Sen. Jeff Gordon**
+---
+title: Legislative Update
+author: State Sen. Jeff Gordon
+---
 
 Thank you for the trust you have placed in me to be your State Senator
 for another term. It is a responsibility I take seriously every day (and
@@ -46,9 +47,9 @@ medical services; and much more. There is a lot of work ahead.
 I maintain an open-door policy. As always, please reach out to me if I
 can help you with a constituent service, answer a question, or take up a
 concern. You can call my office at (860) 240-800, e-mail me at
-jeffrey.gordon\@cga.ct.gov, check for news and updates at
-www.senatorgordon.com, or learn about what I am doing on Facebook at
-"Senator Jeff Gordon."
+[jeffrey.gordon@cga.ct.gov](mailto:jeffrey.gordon@cga.ct.gov), check for news and updates at
+[www.senatorgordon.com](https://ctsenaterepublicans.com/home-gordon/), 
+or learn about what I am doing on [Facebook at "Senator Jeff Gordon."](https://www.facebook.com/senatorjeffgordon/)
 
 Thank you again for the opportunity to be your State Senator. I look
 forward to all we can do together to help Eastford, the Senate district,

@@ -1,6 +1,7 @@
-**Tips for Today**
-
-**Liz Ellsworth**
+---
+title: Tips for Today
+author: Liz Ellsworth
+---
 
 Happy December!
 

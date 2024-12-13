@@ -1,6 +1,7 @@
-**From the Eastford Independent Fire Company**
-
-**Jeannine Spink**
+---
+title: From the Eastford Independent Fire Company
+author: Jeannine Spink
+---
 
 Monthly emergency responses are rising steadily (August, 18; September,
 15). From Jan. 1, 2024 to Oct. 31, we have responded to 199 emergencies.
