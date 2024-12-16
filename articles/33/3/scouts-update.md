@@ -1,4 +1,6 @@
-**Ashford/Eastford Scout Troop 92 Update**
+---
+title: Ashford/Eastford Scout Troop 92 Update
+---
 
 Scouts have been busy this fall. The Scouts and Cub Scouts joined
 together to decorate Ashford's Babcock Library with Halloween
