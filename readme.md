@@ -123,3 +123,5 @@ Parameters:
 `pandoc "filename.docx" -o "filename.md"`
 
 To generate Markdown for all the files in the directory (Powershell): `Get-ChildItem -File | Foreach {pandoc $_.Name -o (-join ($_.Name, ".md"))}`
+
+To generate Markdown for all the DOCX files in the directory and subdirectory (I am very proud of this one): `get-Childitem -Recurse -filter *docx | Foreach {pandoc (-join($_.Directory, "/", $_.Name)) -o (-join($_.Name, ".md"))}`
