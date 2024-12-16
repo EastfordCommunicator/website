@@ -1,6 +1,7 @@
-**In the Garden**
-
-**Susan Burns**
+---
+title: In the Garden
+author: Susan Burns
+---
 
 As you observe your yard during this downtime, make notes on where you
 need to add something. If you haven't already considered adding shrubs
