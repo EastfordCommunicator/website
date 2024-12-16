@@ -1,4 +1,6 @@
-HEAD: EES Sign Contest Winner Announced
+---
+title: EES Sign Contest Winner Announced
+---
 
 EASTFORD --- The votes have been tallied, and the results are in.
 
@@ -19,18 +21,15 @@ You?" The contest was open to all students. Three finalists were
 selected by the PTO, and voting on the three finalists' designs was
 conducted by EES students to determine the winner.
 
-CUTLINES: *Adam Minor photos*
+*Adam Minor photos*
 
-1\.
+![A child posing with the school sign](assets/images/33-3-ees-sign-1.jpg)
+*Second grader Rio Souvigney was announced as the winner of the annual
+sign contest.*
 
-Second grader Rio Souvigney was announced as the winner of the annual
-sign contest.
+![Three children posing in front of the school sign](assets/images/33-3-ees-sign-2.jpg)
+*From left, sign contest winner Rio Souvigney, first grader Avriella
+Barber, and fifth grader Zoe Labonte.*
 
-2\.
-
-From left, sign contest winner Rio Souvigney, first grader Avriella
-Barber, and fifth grader Zoe Labonte.
-
-3\.
-
-The winning design by Rio Souvigney.
+![A sign that says "reading takes you anywhere", with drawings of a sandy beach, outer space, books and a mortarboard hat, and scientific and medical equipment](assets/images/33-3-ees-sign-3.jpg)
+*The winning design by Rio Souvigney.*

@@ -1,11 +1,6 @@
-CUTLINE: *Adam Minor photo*
-
-Scramble the Duck is preparing once again to predict the forecast for
-early 2025 on Sunday, Feb. 2.
-
-HEAD:
-
-Scramble ready to predict future on 'Duck Day'
+---
+title: Scramble ready to predict future on 'Duck Day'
+---
 
 EASTFORD --- Every midwinter, Americans across the country gather to
 hear from groundhogs whether winter will end early or last for another
@@ -32,4 +27,8 @@ pass the winter months.
 
 The Feb. 2 event will also be live streamed for those not able to attend
 in person. More information can be found on Scramble the Duck's website,
-scrambletheduck.org.
+[scrambletheduck.org](https://scrambletheduck.org).
+
+![A duck socializing at an event](/assets/images/33-3-scramble-the-duck.jpg)
+*Scramble the Duck is preparing once again to predict the forecast for
+early 2025 on Sunday, Feb. 2. Adam Minor Photo*
