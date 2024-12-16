@@ -1,16 +1,7 @@
-CUTLINE: *Courtesy photo*
-
-State Sen. Jeff Gordon was re-elected to another term last month in the
-General Election, defeating challenger Marry Garrett (D).
-
-HEAD:
-
-Town election results echo national tallies, substantial voter turnout
-touted
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+---
+title: Town election results echo national tallies, substantial voter turnout touted
+author: Adam Minor
+---
 
 EASTFORD --- Regardless of where you fall on the political spectrum,
 last month's General Election (Nov. 5) was an important day in the
@@ -101,4 +92,4 @@ character matter. Common sense matters. I am here to represent everyone,
 something that I take seriously. Today, I continue my ongoing work as
 your State Senator. I look forward to it. I have faith in Connecticut,
 and I have faith in our communities. Again, thank you for re-electing me
-as your State Senator.\"
+as your State Senator."
