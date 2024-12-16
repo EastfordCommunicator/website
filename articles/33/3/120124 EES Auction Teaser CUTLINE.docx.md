@@ -1,13 +1,12 @@
-HEAD:
-
-EES Auction nets more than \$18k for D.C. trip
-
-CUTLINE: *Adam Minor photo*
+---
+title: EES Auction nets more than $18k for D.C. trip
+---
+*Adam Minor photo*
 
 EASTFORD --- The numbers have been officially crunched. After a night
 full of frenzied sales and fundraising on Saturday, Nov. 16, the EES
 Goods and Services Auction boasted one of its highest totals in recent
-memory, netting \$18,247, according to auction officials as of press
+memory, netting $18,247, according to auction officials as of press
 time. Those numbers could change slightly as some items are finalized.
 The event featured a live and silent auction, as well as a raffle, baked
 goods and coffee sales, pizza sales and other donations. All of the

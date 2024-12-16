@@ -1,10 +1,7 @@
-HEAD:
-
-Bulldogs soccer season ends with playoff loss
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+---
+title: Bulldogs soccer season ends with playoff loss
+author: Adam Minor
+---
 
 EASTFORD --- The Eastford Bulldogs' 2024 soccer season --- much like a
 game --- was a tale of two halves.
@@ -56,11 +53,18 @@ end-of-season Communicator Awards, which honored the team's top
 performers in several categories, the winners of which were decided by
 both Minor and Coach Jennifer Barlow. After the Communicator Awards were
 given out, Barlow surprised her team with her own set of awards. A
-complete list of the awards given can be seen in the column to the left.
+complete list of the awards given can be seen below.
 
 Congratulations once again to the Bulldogs for a great season!
 
-**Bulldogs Season Scoring Totals:**
+![An elementary school soccer team in blue uniforms](/assets/images/33-3-eastford-bulldogs-team.jpg)
+*The 2024 Eastford Bulldogs soccer team. Top row, from left, Walker Whipple, Sylas Platt, Wes
+DePercio, Aaron Minor, Callum St. John, Cam Bibeault, Leah Talaga, Piper Moore, Thomas Blais,
+Aiden Mitchell, Head Coach Jennifer Barlow. Bottom row, from left, Logan Gillett, Charlie Ellsworth,
+Blake Gilbert, Ryan Collard, Georgia Barlow, Olivia DePercio, Ayiana Reed, Mackenzie Lathrop. Not
+pictured, Abby Haynes, Lily Rose Priest and Sofia Gillett. Photo courtesy Nick DePercio*
+
+## Bulldogs Season Scoring Totals:
 
 Wes DePercio: 20
 
@@ -76,7 +80,7 @@ Cam Bibeault: 1
 
 **Total Goals Scored: 34**
 
-**The Season at a Glance:**
+## The Season at a Glance:
 
 Tuesday, Sept. 17, @ Parish Hill --- W, 8-1
 
@@ -105,7 +109,7 @@ Thursday, Oct. 31, @ Wheeler --- W, 2-1 (OT)
 Monday, Nov. 4 (Playoff Semifinal), vs. Canterbury --- L, 1-2 (OT, 2-3
 PK)
 
-**END-OF-SEASON COMMUNICATOR AWARDS**
+## *Communicator* End-of-Season Awards
 
 **MVP Award:** Awarded to the most valuable player, the player that
 exhibited the best overall performance throughout the regular season and
