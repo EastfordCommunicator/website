@@ -1,4 +1,5 @@
 {
     "/gfm/": "/donate/?ref=gfm-campaign",
-    "/gofundme/": "/donate/?ref=gfm-campaign"
+    "/gofundme/": "/donate/?ref=gfm-campaign",
+    "/superman/": "/donate/?ref=gfm-campaign"
 }
