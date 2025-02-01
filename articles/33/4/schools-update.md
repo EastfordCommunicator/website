@@ -1,6 +1,6 @@
 ---
 title: From the Superintendent
-title: Donna Leake
+author: Donna Leake
 ---
 
 It may still be winter, but the number of hours of sunlight is

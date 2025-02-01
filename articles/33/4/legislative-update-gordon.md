@@ -1,6 +1,6 @@
 ---
 title: Legislative Update
-author: State Sen.  Jeff Gordon
+author: State Sen. Jeff Gordon
 ---
 
 The Legislative Session in Harford has started, and it is already busy.
