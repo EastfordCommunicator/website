@@ -1,6 +1,6 @@
 ---
 title: Food Pantry Update
-Audrey Carabeau
+author: Audrey Carabeau
 ---
 
 The Eastford Food Pantry is looking for individuals or families who
