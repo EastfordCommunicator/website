@@ -3,7 +3,7 @@ const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const slugify = require("slugify");
 const splitTitle = require("./_11ty/splitTitle.js");
-const excerpt = require("./_11ty/excerpt.js")
+const excerpt = require("./_11ty/excerpt.js");
 const striptags = require("striptags");
 // const EleventyPluginOgImage = require('eleventy-plugin-og-image');
 const Image = require("@11ty/eleventy-img");
@@ -65,7 +65,7 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.addFilter("excerpt", (content) => {
     return excerpt(content);
-  })
+  });
   eleventyConfig.addFilter("filterByAuthor", function(collection, author) {
     let product = collection.filter((article) => article.data.author === author )
     return product
