@@ -19,5 +19,5 @@ Maybe you want to challenge yourself, and expand your plant knowledge?
 [Look to the Master Gardner Program(s) at the University of Connecticut](https://mastergardener.uconn.edu/).
 
 There are all kinds of ways to learn more about plants and trees this
-spring with The Last Green Valley (TLGV) 's Spring Outdoors events.
+spring with The Last Green Valley (TLGV)'s Spring Outdoors events.
 [Learn more at the TLGV website](https://thelastgreenvalley.org/spring-outdoors-events).
