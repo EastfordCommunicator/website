@@ -33,14 +33,5 @@ the town page, on social media, or in the Calendar section of this
 edition of the Communicator! If you haven't yet, please follow [Eastford
 Public Library on Facebook](https://www.facebook.com/Eastford-Public-Library-100071213114254/) and/or [Instagram @eastfordpubliclibrary](https://www.instagram.com/eastfordpubliclibrary/).
 
-## Reading Buddies
-
-EASTFORD --- Some of the Eastford Elementary School students celebrated
-Read Across America on March 4 by reading stories to READ (Reading
-Education Assistant Dogs). The students read to the registered therapy
-dogs -- Millie, Willow and Cora (pictured). As a bonus for their great
-job, reading students received stickers and pencils, and the dogs
-enjoyed petting and hugs and got to listen to some wonderful reading!
-
 ![A happy dog in a library](/assets/images/33-5-library-cutest-pet.jpg)
 *Courtesy Photo*
