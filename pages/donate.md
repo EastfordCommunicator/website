@@ -2,7 +2,7 @@
 title: Support the Eastford Communicator
 layout: base
 permalink: "/donate/"
-tags: banner
+
 bannertitle: Help us meet our year-end financial target!
 bannertext: We rely on donations to keep providing the <i>Communicator</i>. You can help us continue by clicking here. 
 ---
