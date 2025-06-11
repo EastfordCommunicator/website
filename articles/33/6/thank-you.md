@@ -1,5 +1,5 @@
 ---
-Thank-you to Our Supporters
+title: Thank-you to Our Supporters
 ---
 
 *Thank you to the following for gifts of their time, talent, and/or
