@@ -1,5 +1,6 @@
 ---
 title: "A Word [or Two] from the Editor-in-Chief"
+author: Art Brodeur
 ---
 I have spent most of my professional life in communications, as a
 communicator. My earliest days as a cub reporter saw me writing
