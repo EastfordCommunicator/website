@@ -1,5 +1,5 @@
 ---
-title: 'A Word [or Two] from the Editor-in-Chief'
+title: "A Word [or Two] from the Editor-in-Chief"
 author: Art Brodeur
 ---
 I have spent most of my professional life in communications, as a
