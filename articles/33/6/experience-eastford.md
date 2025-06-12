@@ -58,3 +58,14 @@ Public Library's Book Sale.
 17\.
 
 Addie Labonte is all smiles after winning one of several raffle baskets-->
+
+
+## Mustang corral
+
+EASTFORD --- As part of Experience Eastford on Saturday, May 10, Bowen's
+Garage hosted a car show from 10 a.m. to 2 p.m. Vehicles new and old
+were on display, giving people ample opportunity to enjoy a bit of
+nostalgia.
+
+![several bright-colored sports cars in front of Bowen's garage, an old-fashioned style car dealership](/assets/images/33-6-bowens-car-show.jpg)
+*Adam Minor photo*
