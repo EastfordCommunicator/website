@@ -13,7 +13,7 @@ property.
 ![children walking with plastic eggs](/assets/images/33-6-egg-hunt-5.jpg)
 Eggs were hidden in the preschool area for the younger children.
 
-!a boy with a bucket of plastic eggs[](/assets/images/33-6-egg-hunt-6.jpg)
+![a boy with a bucket of plastic eggs](/assets/images/33-6-egg-hunt-6.jpg)
 Sonny Garry shows off his egg treasures.
 
 ![a girl posing with a silver-colored plastic egg](/assets/images/33-6-egg-hunt-7.jpg)
