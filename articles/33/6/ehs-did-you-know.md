@@ -25,3 +25,5 @@ Please pay us a visit!
 Donations to the Historical Society are greatly appreciated. Donations
 may be sent to Eastford Historical Society, P.O. Box 350, Eastford, CT
 06242.
+
+[Click here to read the Eastford Historical Society Quarterly](https://files.eastford.news/33-6-ehs-quarterly.pdf)
