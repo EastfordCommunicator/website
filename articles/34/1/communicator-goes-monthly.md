@@ -1,5 +1,5 @@
 ---
-title: <i>The Communicator</i> announces shift to monthly publication
+title: <i>The Communicator</i> Announces Shift to Monthly Publication
 author: Arthur Brodeur, Editor-in-Chief
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: EES bids farewell to 22 students in the Class of 2025
+title: EES Bids Farewell to 22 Students in the Class of 2025
 ---
 
 EASTFORD --- On Thursday, June 12, Eastford Elementary School said

@@ -1,5 +1,5 @@
 ---
-title: CCE frog jump event offers food, fun, and fellowship
+title: CCE Frog Jump Event Offers Food, Fun, and Fellowship
 ---
 
 EASTFORD --- An annual tradition continued Saturday, July 12, as the

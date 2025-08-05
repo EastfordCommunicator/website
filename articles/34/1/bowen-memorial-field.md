@@ -1,5 +1,5 @@
 ---
-title: Bowen's Memorial Field Committee working on plan for field improvements
+title: Bowen's Memorial Field Committee Working on Plan for Field Improvements
 ---
 
 EASTFORD --- The Bowen's Memorial Field Committee is a group of town

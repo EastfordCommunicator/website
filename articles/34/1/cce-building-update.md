@@ -1,5 +1,5 @@
 ---
-title: CCE breaks ground on new site, year-long project eyed
+title: CCE Breaks Ground on New Site, Year-Long Project Eyed
 author: Eric Payer
 ---
 Payer: Progress on new site 'a testament to the town's
