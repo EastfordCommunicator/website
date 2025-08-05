@@ -81,6 +81,12 @@ module.exports = function(eleventyConfig) {
       if (a.data.layoutNumber && b.data.layoutNumber) {
         return b.data.layoutNumber - a.data.layoutNumber
       }
+      else if (a.data.layoutNumber) {
+        return 1
+      }
+      else if (b.data.layoutNumber) { 
+        return -1
+      }
       else {
         return 0
       }
