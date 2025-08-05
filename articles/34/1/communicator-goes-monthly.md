@@ -1,6 +1,7 @@
 ---
 title: <i>The Communicator</i> Announces Shift to Monthly Publication
 author: Arthur Brodeur, Editor-in-Chief
+layoutNumber: 1
 ---
 
 EASTFORD --- The Board of Directors of *The Eastford Communicator* LLC
