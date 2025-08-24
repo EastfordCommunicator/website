@@ -17,7 +17,7 @@ Business Card-Sized Ad: (1/10th pg.:  2” x 3.5”): $30.00
 	
 Full-Page Ad: $250.00 	
 
-- This year, The Eastford Communicator will be published in the months of August, October, December, February, April, and June.
+- The Eastford Communicator is published monthly.
 - All ads must be submitted no later than the 10th of the month prior to the issue month in which you wish to place your ad. For example, if you want to advertise in the August issue, the ad must be received by July 10. 
 - Ads should be camera-ready when submitted; high-resolution PNG, PDF, or JPG are preferred.
 - Ads must be prepaid. Checks should be payable to The Eastford Communicator and sent to: The Communicator, PO Box 253, Eastford, CT 06242. 
