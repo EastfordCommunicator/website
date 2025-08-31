@@ -1,0 +1,13 @@
+{
+    "volume": 34,
+    "issue": 2,
+    "pdfUrl": false,
+    "date": "2025-09-01",
+    "issueTitle": "",
+    "color": "",
+    "articleCategories": ["article"],
+    "editors": [
+        {"role": "Editor-in-Chief", "name": "Adam Minor"},
+        {"role": "Web Editor", "name": "Micah Torcellini"}
+    ]
+}
