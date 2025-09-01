@@ -1,5 +1,6 @@
 ---
 title: Bowen Memorial Field Rededicated
+author: Deb Richards
 ---
 EASTFORD --- On Saturday, July 26, Bowen Memorial Field was rededicated
 in a special ceremony. Originally dedicated in 1974, the field has
