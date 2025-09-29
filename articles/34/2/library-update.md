@@ -18,7 +18,7 @@ You may reach us at (860) 974-0125, or by e-mail at
 <eastfordpublib@gmail.com>. Upcoming events and programs can be seen on
 the town page or on social media. If you haven't yet, please follow 
 [Eastford Public Library on Facebook](https://www.facebook.com/Eastford-Public-Library-100071213114254/) and/or Instagram
-[@eastfordpubliclibrary](https://www.instagram.com/eastfordpubliclibrary/)
+[@eastfordpubliclibrary](https://www.instagram.com/eastfordpubliclibrary/).
 
 Pictured, participants from our Summer Reading Program gathered for our
 finale, filled with prizes, ice cream, and face painting.
