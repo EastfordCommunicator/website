@@ -153,7 +153,7 @@ module.exports = function(eleventyConfig) {
     permalinkSymbol: "#"
   };
   let riOptions = {
-    widths: [150, 300, 600, 800, 1000, 2000],
+    widths: [150, 300, 600, 800, 1000, 2000, "auto"],
     sizes:  "(max-width: 60rem) 100vw, 66vw"
   };
 
