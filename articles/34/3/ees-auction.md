@@ -1,5 +1,5 @@
 ---
-title: Auction fundraiser returns to support 8th grade D.C. trip
+title: Auction Fundraiser Returns to Support 8th Grade D.C. trip
 author: Adam Minor
 ---
 
