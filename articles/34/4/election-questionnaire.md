@@ -48,7 +48,7 @@ of our community."
 
 ### Michael Schultz, Petitioning Candidate
 
-1. Why are you running for this office, and what qualifications or
+1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
 "I am running for this office because of my strong legal and engineering
@@ -56,12 +56,12 @@ background. I am a fiscal conservative, having successfully run a $6
 million business. I have lived in town for more than 50 years and I love
 it."
 
-2. What do you see as the most important issue facing our community in
+2. *What do you see as the most important issue facing our community in
 the area you are running? How would you address it if elected?*
 
 "I believe the town needs effective and stable growth."
 
-3. How will you make yourself accessible and accountable to the people
+3. *How will you make yourself accessible and accountable to the people
 you represent?*
 
 "I intend to campaign at many individual households to get people's
