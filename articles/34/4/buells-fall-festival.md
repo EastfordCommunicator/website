@@ -13,7 +13,7 @@ the festival was limited to just Saturday.
 
 *Adam Minor photos*
 
-![two children on a tractor](/assets/images/34-4-fall-fest-.jpg)
+![two children on a tractor](/assets/images/34-4-fall-fest-8.jpg)
 Young Dalton and Laurel Patenaude, of Eastford, enjoy a
 pretend ride on a tractor at the Buell's Orchard Harvest Festival on
 Saturday, Oct. 11. The annual event attracted thousands of people to the
