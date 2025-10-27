@@ -10,8 +10,9 @@ profile was chosen at random. Constable candidate Nathaniel Fabian declined to p
 <style>
 /*yes I know this is a bad thing to do but these styles are really only for this page, and it applies to all the images on this page, and we don't have another article like this*/
 picture {
-    max-width: 20em;
+    max-width: 10em;
     float: right;
+    margin: 1em 0 1em 1em;
 }
 </style>
 
@@ -58,6 +59,8 @@ of our community."
 
 ### Michael Schultz, Petitioning Candidate
 
+![Michael Schultz](/assets/images/34-4-michael-schultz.png)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -81,6 +84,8 @@ opinions as to what they want the town to provide."
 ## Selectman
 
 ### Ashlyn Ellsworth, Democrat
+
+![Ashlyn Ellsworth](/assets/images/34-4-ashlyn-ellsworth.jpg)
 
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
@@ -119,6 +124,8 @@ making."
 
 ### Paul Torcellini, Republican
 
+![Paul Torcellini](/assets/images/34-4-paul-torcellini.jpg)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -154,6 +161,8 @@ concerns and ideas about making Eastford a better place."
 
 ### Arvind Shaw, Democrat
 
+![Arvind Shaw](/assets/images/34-4-arvind-shaw.webp)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -177,6 +186,8 @@ you represent?*
 974-2636."
 
 ### Randal Chinnock, Democrat
+
+![Randall Chinnock](/assets/images/34-4-randal-chinnock.jpg)
 
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
@@ -209,6 +220,8 @@ Griffith Show" --- there's not a lot to do, but do your best."
 
 ### Christopher Bowen, Republican
 
+![Chris Bowen](/assets/images/34-4-chris-bowen.jpg)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -236,6 +249,8 @@ with me and the crew to move forward in safety for our residents."
 
 ### Lauren Barlow, Republican
 
+![Lauren Barlow](/assets/images/34-4-lauren-barlow.jpg)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -256,6 +271,8 @@ you represent?*
 groups. I strive to respond to e-mails promptly."
 
 ### Michael Bilica, Democrat
+
+![Michael Bilica](/assets/images/34-4-michael-bilica.jpg)
 
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
@@ -289,6 +306,8 @@ and will be responsive to the citizens of Eastford."
 
 ### Stephen Bowen, Republican
 
+![Steve Bowen](/assets/images/34-4-steve-bowen.jpg)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -310,6 +329,8 @@ Board of Education."
 
 
 ### Nancy Neff, Democrat
+
+![Nancy Neff](/assets/images/34-4-nancy-neff.png)
 
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
@@ -344,6 +365,8 @@ deeper understanding of our community's pulse."
 ## Town Clerk
 
 ### Johanna Wolfe, Republican (Cross Endorsed)
+
+![Johanna Wolfe](/assets/images/34-4-johanna-wolfe.jpg)
 
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
@@ -382,6 +405,8 @@ encounter."
 
 ### Christine Hustus, Republican (Cross Endorsed)
 
+![Christine Hustus](/assets/images/34-4-christine-hustus.jpg)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -415,6 +440,8 @@ or concern? Give me a call!"
 
 ### Martha Burgess, Republican
 
+![Martha Burgess](/assets/images/34-4-martha-burgess.jpg)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -443,6 +470,8 @@ you represent?*
 ## Board of Assessment Appeals
 
 ### Robert Johnson, Democrat
+
+![Robert Johnson](/assets/images/34-4-robert-johnson.jpg)
 
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
@@ -479,6 +508,8 @@ for anyone to view via the Freedom of Information Act (FOIA)."
 
 ### Mary DeGostin, Republican
 
+![Mary DeGostin](/assets/images/34-4-mary-degostin.jpg)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -510,6 +541,8 @@ and effective."
 
 
 ### Meghan Martinez, Democrat
+
+![Meghan Martinez](/assets/images/34-4-meghan-martinez.png)
 
 1. Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
@@ -545,6 +578,8 @@ myself on being available to the people that rely on me."
 
 ### Seth Budd, Republican
 
+![Seth Budd](/assets/images/34-4-seth-budd.jpg)
+
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
 
@@ -569,6 +604,8 @@ responsibility to me."
 
 
 ### Armen Beermann, Republican
+
+![Armen Beerman](/assets/images/34-4-armen-beermann.jpg)
 
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*
