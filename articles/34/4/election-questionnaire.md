@@ -7,9 +7,19 @@ questionnaire to better inform the voters of Eastford before they head out to th
 with the same 75 word limit per question, and given the same deadline for submission. For those races that are contested, the order and placement of each candidate's
 profile was chosen at random. Constable candidate Nathaniel Fabian declined to participate in this questionnaire. Some answers were edited due to space limitations.*
 
+<style>
+/*yes I know this is a bad thing to do but these styles are really only for this page, and it applies to all the images on this page, and we don't have another article like this*/
+picture {
+    max-width: 20em;
+    float: right;
+}
+</style>
+
 ## First Selectman
 
 ### Deb Richards, Republican (Cross Endorsed)
+
+![Deb Richards](/assets/images/34-4-deb-richards.jpg)
 
 1. *Why are you running for this office, and what qualifications or
 experiences make you the best candidate?*

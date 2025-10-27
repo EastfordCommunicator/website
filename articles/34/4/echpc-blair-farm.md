@@ -1,5 +1,5 @@
 ---
-excerpt: "The Eastford Conservation and Historic Preservation announced that the
+excerpt: "The Eastford Conservation and Historic Preservation Commission announced that the
     30-plus acre farm owned by Paul Blair on Route 171 has received
     conservation funding from the State of Connecticut's Department of
     Agriculture's Farmland Preservation Program, which will guarantee that
