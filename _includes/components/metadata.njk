@@ -13,7 +13,7 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:title" content="{{ title }}">
-<meta property="og:description" content="{{ renderData.description or description or metadata.description }}">
+<meta property="og:description" content="{{ renderData.description or description or excerpt or metadata.description }}">
 <meta property="og:url" content="{{ page.url | url | absoluteUrl(metadata.url) }}">
 
 {% if card %}
