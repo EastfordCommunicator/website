@@ -1,5 +1,5 @@
 ---
-title: Bulldogs gearing up for winter basketball season
+title: Bulldogs Gearing up for Winter Basketball Season
 author: Adam Minor
 ---
 *School departing from co-ed to form separate boys', girls' teams*

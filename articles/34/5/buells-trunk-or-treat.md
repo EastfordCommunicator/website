@@ -1,5 +1,5 @@
 ---
-title: Trunk or treat event an annual favorite at Buell's Orchard
+title: Trunk or Treat Event an Annual Favorite at Buell's Orchard
 ---
 
 EASTFORD --- Buell's Orchard held its annual Trunk or Treat event on
@@ -38,7 +38,7 @@ Bowser (Brandon).
 ![two people in costume](/assets/images/34-5-buells-trunk-or-treat-9.jpg)
 A monkey, Oliver Fabian, and his banana (Alex)!
 
-![A child in a pumpkin costume](/assets/images/34-5-buels-trunk-or-treat-10.jpg)
+![A child in a pumpkin costume](/assets/images/34-5-buells-trunk-or-treat-10.jpg)
 Iris is all smiles as she poses for a photo in her pumpkin
 outfit during the Buell's Orchard event.
 

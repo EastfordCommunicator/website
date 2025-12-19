@@ -73,7 +73,7 @@ Full Municipal Election results are as follows:
 
 ### First Selectman
 
-\*Deborah A. Richards (R): 335
+\*Deborah A. Richards \(R): 335
 
 Michael D. Schultz (Petitioning Candidate): 164
 
@@ -81,25 +81,25 @@ Michael D. Schultz (Petitioning Candidate): 164
 
 \*Ashlyn Ellsworth (D): 243
 
-\*Paul A. Torcellini (R): 241
+\*Paul A. Torcellini \(R): 241
 
 ### Town Clerk
 
-\*Johanna Wolfe (R): 478
+\*Johanna Wolfe \(R): 478
 
 ### Town Treasurer
 
-\*Martha L. Burgess (R): 395
+\*Martha L. Burgess \(R): 395
 
 ### Tax Collector
 
-\*Christine E. Hustus (R): 380
+\*Christine E. Hustus \(R): 380
 
 ### Board of Education
 
-\*Lauren J. Barlow (R): 368
+\*Lauren J. Barlow \(R): 368
 
-\*Stephen W. Bowen (R): 362
+\*Stephen W. Bowen \(R): 362
 
 \*Nancy L. Neff (D): 267
 
@@ -111,9 +111,9 @@ Michael D. Schultz (Petitioning Candidate): 164
 
 ### Constables
 
-\*Christopher D. Bowen (R): 312
+\*Christopher D. Bowen \(R): 312
 
-\*Nathaniel F. Fabian (R): 258
+\*Nathaniel F. Fabian \(R): 258
 
 \*Arvind Shaw (D): 212
 
@@ -121,11 +121,11 @@ Michael D. Schultz (Petitioning Candidate): 164
 
 ### Library Board of Trustees
 
-\*Mary K. Degostin (R): 348
+\*Mary K. Degostin \(R): 348
 
-\*Seth H. Budd (R): 337
+\*Seth H. Budd \(R): 337
 
-\*Armen A. Beermann (R): 295
+\*Armen A. Beermann \(R): 295
 
 Meghan Martinez (D): 245
 

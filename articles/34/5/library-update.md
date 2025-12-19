@@ -1,5 +1,5 @@
 ---
-title: What Going On at the Eastford Public Library?
+title: What is Going On at the Eastford Public Library?
 author: Katie Ball
 ---
 

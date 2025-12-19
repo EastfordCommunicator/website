@@ -1,5 +1,5 @@
 ---
-title: Camping trip, Veterans Day highlight Scouts schedule
+title: Camping Trip, Veterans Day Highlight Scouts Schedule
 ---
 ASHFORD --- Scouts recently went camping at Wolf Den Campground in
 Pomfret. They learned how to make a primitive structure using knots and

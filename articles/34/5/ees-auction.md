@@ -1,5 +1,5 @@
 ---
-title: Auction raises more than $15k for Washington D.C. field trip
+title: Auction Raises More than $15k for Washington D.C. Field Trip
 ---
 EASTFORD --- It takes years of fundraising to supply the funds needed to
 bring an entire grade of Eastford Elementary School students on a
