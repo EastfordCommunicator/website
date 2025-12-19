@@ -1,18 +1,8 @@
-CUTLINE: *Adam Minor photo*
-
-Bulldogs boys basketball Head Coach Zach Hutchings and girls basketball
-Head Coach Jen Barlow gather with the girls basketball team at their
-first practice on Monday, Nov. 17. Both teams are slated to begin their
-season Thursday, Dec. 4, against St. James.
-
-HEAD: Bulldogs gearing up for winter basketball season
-
-SUB HEAD: School departing from co-ed to form separate boys', girls'
-teams
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+---
+title: Bulldogs gearing up for winter basketball season
+author: Adam Minor
+---
+*School departing from co-ed to form separate boys', girls' teams*
 
 EASTFORD --- Coming off a tough 2024-25 basketball campaign, the
 Eastford Bulldogs are looking to reset this season (which begins on
@@ -26,7 +16,7 @@ set to return as head coach of the boys' team, while Jennifer Barlow
 will take over head coaching duties for the girls' squad, which hasn't
 fielded a team of its own since before the COVID-19 pandemic.
 
-"I\'m super excited to bring back a girls basketball team for the first
+"I'm super excited to bring back a girls basketball team for the first
 time since before COVID," Barlow said. "I will likely be growing and
 learning just as much, if not more than these girls, but it should be a
 fun year."
@@ -59,66 +49,55 @@ champion, having defeated Canterbury in last year's finals. The
 when able, live on the *Communicator* Facebook page, so stay tuned for
 ongoing coverage this basketball season!
 
-**EES Boys Basketball Schedule**
-
-• Thursday, Dec. 4: vs. St. James; 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+## EES Boys Basketball Schedule
+- Thursday, Dec. 4: vs. St. James; 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
-
-• Monday, Dec. 8: vs. Parish Hill, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Monday, Dec. 8: vs. Parish Hill, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
-
-• Thursday, Dec. 11: vs. Wheeler, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Dec. 11: vs. Wheeler, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
-
-• Monday, Dec. 15: vs. Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Monday, Dec. 15: vs. Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
-
-• Thursday, Dec. 18: vs. Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Dec. 18: vs. Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
-
-• Tuesday, Jan. 6: @ Wheeler, 3:30 p.m. (Varsity Only), Wheeler High
+- Tuesday, Jan. 6: @ Wheeler, 3:30 p.m. (Varsity Only), Wheeler High
 School, 297 Norwich-Westerly Rd, North Stonington
-
-• Thursday, Jan. 8: @ Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Jan. 8: @ Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Pomfret Community School, 20 Pomfret St., Pomfret
-
-• Monday, Jan. 12: @ Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Monday, Jan. 12: @ Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Ashford Elementary School, 440 Westford Rd., Ashford
-
-• Thursday, Jan. 15: @ St. James, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Jan. 15: @ St. James, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 St. James Parochial School, 120 Water St, Danielson
-
-• Tuesday, Jan. 20: @ Parish Hill, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Tuesday, Jan. 20: @ Parish Hill, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Parish Hill Middle School, 304 Parish Hill Rd, Chaplin
 
-**EES Girls Basketball Schedule**
-
-• Thursday, Dec. 4: @ St. James; 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+## EES Girls Basketball Schedule
+- Thursday, Dec. 4: @ St. James; 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 St. James Parochial School, 120 Water St, Danielson
-
-• Monday, Dec. 8: @ Parish Hill, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Monday, Dec. 8: @ Parish Hill, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Parish Hill Middle School, 304 Parish Hill Rd, Chaplin
-
-• Thursday, Dec. 11: @ Wheeler, 3:30 p.m. (Varsity Only), Wheeler High
+- Thursday, Dec. 11: @ Wheeler, 3:30 p.m. (Varsity Only), Wheeler High
 School, 297 Norwich-Westerly Rd, North Stonington
-
-• Monday, Dec. 15: @ Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Monday, Dec. 15: @ Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Pomfret Community School, 20 Pomfret St, Pomfret
-
-• Thursday, Dec. 18: @ Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Dec. 18: @ Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Ashford Elementary School, 440 Westford Rd, Ashford
-
-• Tuesday, Jan. 6: vs. Wheeler, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Tuesday, Jan. 6: vs. Wheeler, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
-
-• Thursday, Jan. 8: vs. Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Jan. 8: vs. Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
-
-• Monday, Jan. 12: vs. Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Monday, Jan. 12: vs. Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
-
-• Thursday, Jan. 15: vs. St. James, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Jan. 15: vs. St. James, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
-
-• Tuesday, Jan. 20: vs. Parish Hill, 3:30 p.m. (JV), 4:15 p.m.
+- Tuesday, Jan. 20: vs. Parish Hill, 3:30 p.m. (JV), 4:15 p.m.
 (Varsity); Eastford Elementary School
+
+
+*Adam Minor photo*
+
+![a group of children and adults in a gym](/assets/images/34-5-bulldogs-practice.jpg)
+Bulldogs boys basketball Head Coach Zach Hutchings and girls basketball
+Head Coach Jen Barlow gather with the girls basketball team at their
+first practice on Monday, Nov. 17. Both teams are slated to begin their
+season Thursday, Dec. 4, against St. James.

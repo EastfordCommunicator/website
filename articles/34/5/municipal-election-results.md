@@ -1,23 +1,8 @@
-CUTLINE: *Adam Minor photo*
-
-Town Clerk Johanna Wolfe swore in several of the winners of the
-Municipal Election on Monday, Nov. 17, including, from left, Michael
-Bilica (Board of Education); Nancy Neff (Board of Education); Seth Budd
-(Library Board of Trustees); Christine Hustus (Tax Collector); Arvind
-Shaw (Constable); Mary Degostin (Library Board of Trustees); Paul
-Torcellini (Selectman); Lauren Barlow (Board of Education); Robert
-Johnson (Board of Assessment Appeals); Randal Chinnock (Constable);
-Deborah Richards (First Selectman); and Christopher Bowen (Constable).
-
-HEAD: Richards earns re-election to first selectman seat
-
-SUB HEAD: Town sees more than 40-percent voter turnout
-
-JUMP HEAD: Degostin, Budd, Beermann earn Library Board of Trustees spots
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+---
+title: Richards Earns Re-election to First Selectman Seat
+layoutNumber: 3
+---
+*Town sees more than 40-percent voter turnout, Degostin, Budd, Beermann earn Library Board of Trustees spots*
 
 EASTFORD --- Only two contested races were featured in the town's
 Municipal Election on Tuesday, Nov. 4. When the dust settled, incumbent
@@ -80,37 +65,37 @@ unwavering commitment."
 
 Full Municipal Election results are as follows:
 
-**Eastford Municipal Election Results**
+## Eastford Municipal Election Results
 
 **Tuesday, Nov. 4, 2025**
 
 ***Note: \* indicates winner***
 
-**First Selectman**
+### First Selectman
 
 \*Deborah A. Richards (R): 335
 
 Michael D. Schultz (Petitioning Candidate): 164
 
-**Selectman**
+### Selectman
 
 \*Ashlyn Ellsworth (D): 243
 
 \*Paul A. Torcellini (R): 241
 
-**Town Clerk**
+### Town Clerk
 
 \*Johanna Wolfe (R): 478
 
-**Town Treasurer**
+### Town Treasurer
 
 \*Martha L. Burgess (R): 395
 
-**Tax Collector**
+### Tax Collector
 
 \*Christine E. Hustus (R): 380
 
-**Board of Education**
+### Board of Education
 
 \*Lauren J. Barlow (R): 368
 
@@ -120,11 +105,11 @@ Michael D. Schultz (Petitioning Candidate): 164
 
 \*Michael Bilica (D): 260
 
-**Board of Assessment Appeals**
+### Board of Assessment Appeals
 
 \*Robert Johnson (D): 341
 
-**Constables**
+### Constables
 
 \*Christopher D. Bowen (R): 312
 
@@ -134,7 +119,7 @@ Michael D. Schultz (Petitioning Candidate): 164
 
 \*Randal Chinnock (D): 180
 
-**Library Board of Trustees**
+### Library Board of Trustees
 
 \*Mary K. Degostin (R): 348
 
@@ -143,3 +128,16 @@ Michael D. Schultz (Petitioning Candidate): 164
 \*Armen A. Beermann (R): 295
 
 Meghan Martinez (D): 245
+
+
+*Adam Minor photo*
+
+![a group of people with their right hands raised](/assets/images/34-5-swearing-in-2025.jpg)
+Town Clerk Johanna Wolfe swore in several of the winners of the
+Municipal Election on Monday, Nov. 17, including, from left, Michael
+Bilica (Board of Education); Nancy Neff (Board of Education); Seth Budd
+(Library Board of Trustees); Christine Hustus (Tax Collector); Arvind
+Shaw (Constable); Mary Degostin (Library Board of Trustees); Paul
+Torcellini (Selectman); Lauren Barlow (Board of Education); Robert
+Johnson (Board of Assessment Appeals); Randal Chinnock (Constable);
+Deborah Richards (First Selectman); and Christopher Bowen (Constable).
