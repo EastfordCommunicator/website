@@ -1,6 +1,7 @@
-**Recreation Update**
-
-**Paige Burgess**
+---
+title: Recreation Update
+author: Paige Burgess
+---
 
 Eastford Recreation would like to thank participants in Trunk or Treat
 as well as those who attended the event.

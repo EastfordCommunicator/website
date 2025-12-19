@@ -1,6 +1,7 @@
-**From the Congregational Church of Eastford**
-
-**Mike Moran**
+---
+title: From the Congregational Church of Eastford
+author: Mike Moran
+---
 
 Greetings and Merry Christmas, Eastford! What an abundance of blessings
 we share in Eastford. We enjoy such beauty, the comfort and quiet of a

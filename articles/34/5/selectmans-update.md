@@ -1,6 +1,7 @@
-**From the First Selectman**
-
-**Deb Richards**
+---
+title: From the First Selectman
+author: Deb Richards
+---
 
 Congratulations to all candidates elected in the election! Together, we
 will make a positive difference for our town.

@@ -1,6 +1,6 @@
-HEAD:
-
-How you can support *The Eastford Communicator*!
+---
+title: How you can support <i>The Eastford Communicator</i>!
+---
 
 Here's a two-for-one opportunity! Benefit your financial well-being and
 your community through one philanthropic gift. As you engage in your

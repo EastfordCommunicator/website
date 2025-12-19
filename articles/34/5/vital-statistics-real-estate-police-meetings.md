@@ -1,25 +1,28 @@
-**VITAL STATISTICS**
+---
+title: Vital Statistics, Real Estate Transactions, Police Reports, and Meetings
+---
+## Vital Statistics
 
-**BIRTHS**
+### Births
 
 October: 1
 
-**MARRIAGES**
+### Marriages
 
 October: 2
 
-**DEATHS**
+### Deaths
 
 October: 1
 
-**REAL ESTATE TRANSACTIONS**
+## Real Estate Transactions
 
-Sept. 2: 41 Millbridge Rd., \$400,000, Robert H. Clark to Mr1 LLC
+Sept. 2: 41 Millbridge Rd., $400,000, Robert H. Clark to Mr1 LLC
 
-Sept. 3: 118 Ashford Rd., Unit 6, \$295,000, Nancy A. Elliott to Linda
+Sept. 3: 118 Ashford Rd., Unit 6, $295,000, Nancy A. Elliott to Linda
 A. Merritt
 
-**POLICE REPORT -- TROOP D**
+## Police Report -- Troop D
 
 During the month of September 2025, Troop D Troopers responded to 24
 calls for service in the Town of Eastford. Of these calls for service,
@@ -44,9 +47,9 @@ Traffic Citations: 0
 
 Written Warnings: 1
 
-**PUBLIC MEETINGS**
+## Public Meetings
 
-**DECEMBER**
+## December
 
 Monday, Dec. 1: Board of Selectmen, 7 p.m., Town Office Building
 

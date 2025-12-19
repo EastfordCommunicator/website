@@ -1,6 +1,7 @@
-**The Pastor's Pen**
-
-**Timothy Howard Jr.**
+---
+title: The Pastor's Pen
+author: Timothy Howard Jr.
+---
 
 As December arrives and our little town begins to glow with Christmas
 lights on porches and wreaths on doors, I am always reminded why this

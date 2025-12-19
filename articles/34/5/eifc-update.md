@@ -1,4 +1,7 @@
-**[From the Eastford Independent Fire Company #1, Inc.]{.smallcaps}**
+---
+title: "From the Eastford Independent Fire Company #1, Inc."
+author: Jeannine Spink
+---
 
 A fun time was held for students and EIFC members at our annual visit to
 Eastford Elementary School to celebrate Fire Prevention Week on Friday,

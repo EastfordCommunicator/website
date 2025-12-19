@@ -1,27 +1,8 @@
-CUTLINES: *Adam Minor photos*
-
-1\.
-
-State and local officials stand as the National Anthem is sung by Tracy
-Medling.
-
-2\.
-
-Ted Graziani, a U.S. Army Vietnam veteran from 1966 to 1968, and a
-former Democratic member of the Connecticut House of Representatives,
-gave the Veterans Day Address at the event.
-
-3\.
-
-State Sen. Jeff Gordon gives his remarks at the Veterans Day event.
-
-HEAD: Ceremony honors Vietnam veterans
-
-JUMP HEAD: Vietnam veterans highlighted at E.O. Smith ceremony
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+---
+title: Ceremony honors Vietnam veterans
+author: Adam Minor
+---
+*Vietnam veterans highlighted at E.O. Smith ceremony*
 
 MANSFIELD --- To commemorate Veterans Day, area veterans were honored at
 a special ceremony at E.O. Smith High School in Mansfield on Saturday,
@@ -49,7 +30,7 @@ District, offered his thanks for the service of our local veterans.
 from family members who served in the Armed Forces, is to meet with
 veterans, meet with their families," Gordon said. "Don't just learn what
 veterans did in history books. ... The more we can learn from you ---
-what you\'ve done, each one of your stories, and what your families went
+what you've done, each one of your stories, and what your families went
 through --- the better we can be as elected officials, and also as
 citizens, to say thank you ... and also what more we can do to be of
 help to you."
@@ -62,14 +43,14 @@ them in the years since returning home.
 did you serve in the battles there in Vietnam and abroad, but then you
 had to face different battles --- very difficult ones --- when you came
 home, with the way that you and many of your family members were treated
-by this country. You didn\'t get the thank you and the recognition you
+by this country. You didn't get the thank you and the recognition you
 deserve," he said. "Veterans Day is not just one day for us to recognize
-you and all your fellow veterans, but it\'s every day of the year, and
+you and all your fellow veterans, but it's every day of the year, and
 we should be very mindful of that. ... You serve your country with duty,
 commitment, faith, defending our way of life, our security, our peace,
 our freedoms and liberties. But your service never ended, and for you it
-hasn\'t ended at all. You\'re continuing to serve in all sorts of ways.
-I\'m amazed by the degrees and the scope of service over the years that
+hasn't ended at all. You're continuing to serve in all sorts of ways.
+I'm amazed by the degrees and the scope of service over the years that
 you do. ... We know that no matter how many 'thank yous' we say, no
 matter the work we do, we can never make up truly for the sacrifice you
 and your families went through. But still, we try and we hope to do
@@ -79,13 +60,13 @@ For Graziani, his passionate speech focused on the honor displayed by
 Vietnam veterans in the face of many trials upon their return from a war
 that was rife was controversy.
 
-"We did our jobs," he said. "We didn\'t ask for anything when we came
+"We did our jobs," he said. "We didn't ask for anything when we came
 back but a little respect. Perhaps we were naive thinking that when we
-came home we would have a parade in our honor. But that didn\'t happen.
+came home we would have a parade in our honor. But that didn't happen.
 ... The tragic thing about Vietnam is that half the country supported
 us, and half did not. They blamed the warrior and not the politicians.
-We did as we were told. We took an oath. We didn\'t say, 'Well, we
-really don\'t feel like going.' You went. You went and you served with
+We did as we were told. We took an oath. We didn't say, 'Well, we
+really don't feel like going.' You went. You went and you served with
 distinction."
 
 Graziani went on to urge those in attendance to continue supporting
@@ -95,5 +76,20 @@ can do for them.
 "I am so proud to see people wearing Vietnam era hats," he said. "Back
 then, even if you were a veteran, you didn't want it to be known that
 you were in Vietnam. But time heals everything. And we look at that as
-support. And basically, that\'s what we all need in our daily lives ---
+support. And basically, that's what we all need in our daily lives ---
 support."
+
+
+*Adam Minor photos*
+
+![people standing for the National Anthem on stage in front of flags](/assets/images/34-5-veterans-day-1.jpg)
+State and local officials stand as the National Anthem is sung by Tracy
+Medling.
+
+![a man speaks at a podium in front of flags](/assets/images/34-5-veterans-day-2.jpg)
+Ted Graziani, a U.S. Army Vietnam veteran from 1966 to 1968, and a
+former Democratic member of the Connecticut House of Representatives,
+gave the Veterans Day Address at the event.
+
+![a man speaks at a podium in front of flags](/assets/images/34-5-veterans-day-3.jpg)
+State Sen. Jeff Gordon gives his remarks at the Veterans Day event.

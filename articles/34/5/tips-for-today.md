@@ -1,6 +1,7 @@
-**Tips for Today**
-
-**Liz Ellsworth**
+---
+title: Tips for Today
+author: Liz Ellsworth
+---
 
 One of the cool things about winter in the northeast is that we can
 easily see the diverse types of year-round greenery. Most of our
@@ -16,9 +17,8 @@ in the understory of woodlands. These two plants are evergreen ground
 cover.
 
 For ideas about how to include more evergreens around your yard or
-community, you can find the 2025 Connecticut Native Perennial, Tree, &
+community, you can find the [2025 Connecticut Native Perennial, Tree, &
 Shrub Availability List compiled by the Connecticut Department of Energy
 and Environmental Protection Bureau of Natural Resources Wildlife
 Division and University of Connecticut College of Agriculture, Health,
-and Natural Resources Department of Extension here:
-https://ipm.cahnr.uconn.edu/connecticut-native-availability/.
+and Natural Resources Department of Extension here](https://ipm.cahnr.uconn.edu/connecticut-native-availability/).

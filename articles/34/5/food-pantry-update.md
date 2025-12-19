@@ -1,6 +1,7 @@
-**Food Pantry Update**
-
-**Audrey Carabeau**
+---
+title: Food Pantry Update
+author: Audrey Carabeau
+---
 
 The Eastford Food Pantry would like to thank the many generous people
 who donated food and money over the last month. With your help we were
@@ -24,6 +25,6 @@ snacks, coffee. Thank you for your support!
 
 Stop & Shop Community Bag Program: Stop & Shop has selected the Eastford
 Food Pantry to benefit from the Community Bag Program! Throughout the
-month of December, we will receive a \$1 donation for every \$2.50
+month of December, we will receive a $1 donation for every $2.50
 reusable Community Bag purchased at Stop & Shop located at 60 Providence
 Turnpike, Putnam.

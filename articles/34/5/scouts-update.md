@@ -1,27 +1,6 @@
-CUTLINES: *Courtesy photos*
-
-1\.
-
-Scouts recently went camping at Wolf Den Campground in Pomfret. They
-learned how to make a primitive structure using knots and lashings.
-
-2\.
-
-Ryker cooks chicken stir fry for lunch while camping at Wolf Den
-Campground in Pomfret.
-
-3\.
-
-A Wonder Woman scarecrow comes together.
-
-4\.
-
-A scarecrow superhero.
-
-HEAD:
-
-Camping trip, Veterans Day highlight Scouts schedule
-
+---
+title: Camping trip, Veterans Day highlight Scouts schedule
+---
 ASHFORD --- Scouts recently went camping at Wolf Den Campground in
 Pomfret. They learned how to make a primitive structure using knots and
 lashings. Lunch was chicken stir fry.
@@ -62,3 +41,20 @@ Happy Holidays, everyone!
 *- Troop 92 BSA Ashford/Eastford, Nord Yakovleff, Assistant Scoutmaster;
 Jesse Burnham, Scoutmaster; Rob Hany, Committee Chairman; Doug Jenne,
 Cubmaster*
+
+
+*Courtesy photos*
+
+![several scouts with a structure made of rope and logs](/assets/images/34-5-scouts-1.jpg)
+Scouts recently went camping at Wolf Den Campground in Pomfret. They
+learned how to make a primitive structure using knots and lashings.
+
+![someone cooking at a grill](/assets/images/34-5-scouts-2.jpg)
+Ryker cooks chicken stir fry for lunch while camping at Wolf Den
+Campground in Pomfret.
+
+![scouts working on a craft](/assets/images/34-5-scouts-3.jpg)
+A Wonder Woman scarecrow comes together.
+
+![a scout and children posing with a superhero-themed scarecrow](/assets/images/34-5-scouts-4.jpg)
+A scarecrow superhero.
