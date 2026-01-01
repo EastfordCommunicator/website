@@ -126,6 +126,8 @@ To generate Markdown for all the files in the directory (Powershell): `Get-Child
 
 To generate Markdown for all the DOCX files in the directory and subdirectory (I am very proud of this one): `get-Childitem -Recurse -filter *docx | Foreach {pandoc (-join($_.Directory, "/", $_.Name)) -o (-join($_.Name, ".md"))}`
 
-Bash: `find -iname "*.docx" -exec pandoc {} -t markdown -o "{}.md" \;`
+Bash to convert: `find -iname "*.docx" -exec pandoc {} -t markdown -o "{}.md" \;`
+
+Bash to convert and move: `find -iname "*.docx" -execdir  pandoc \{} -t markdown -o "{}.md" \; && mv ./*.md ../../articles/34/6/ && mv ./*/*.md ../../articles/34/6/`
 
 To get all the JPG files and rename them in accordance with our standards: `get-ChildItem -Recurse -filter *jpg | Foreach { Copy-item $_.FullName -Destination  "C:\Path\To\the\Communicator\_docx\34-1\$("34-1-" + $_.name.replace(" ","-").ToLower())"}`
