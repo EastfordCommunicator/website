@@ -1,5 +1,5 @@
 ---
-title: "HOliday Fair Another 'Resounding Success' at the Library"
+title: "Holiday Fair Another 'Resounding Success' at the Library"
 ---
 
 EASTFORD --- The Friends of the Eastford Public Library hosted its 2nd
