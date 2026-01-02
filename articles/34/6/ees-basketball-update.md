@@ -1,5 +1,5 @@
 ---
-title: Bulldogs boys' team remains competitive heading into holiday break
+title: Bulldogs Boys' Team Remains Competitive Heading into Holiday Break
 author: Adam Minor
 ---
 

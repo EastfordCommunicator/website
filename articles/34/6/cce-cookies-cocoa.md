@@ -1,5 +1,5 @@
 ---
-title: "'Cookies and Cocoa' event brings festive fun to Eastford"
+title: "'Cookies and Cocoa' Event Brings Festive Fun to Eastford"
 ---
 EASTFORD --- The Recreation Commission hosted its annual "Cookies &
 Cocoa with Santa" event on Saturday, Dec. 6, at the Eastford Elementary

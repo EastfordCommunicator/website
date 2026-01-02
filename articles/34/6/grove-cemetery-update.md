@@ -12,8 +12,7 @@ monument. These plants must not extend more than 12" from the base. On a
 single interment space (4' X 9') with a flush marker and in the
 Cremation Section of the cemetery, only cut flowers or live, potted
 plants will be allowed. Seasonal wreaths, logs, or baskets containing
-live or artificial flowers will be allowed from Thanksgiving to March
-15.
+live or artificial flowers will be allowed from Thanksgiving to March 15.
 
 - The Trustees will conduct a general clean-up of the cemetery grounds
 after March 15 each year. Flowers and seasonal wreathes and logs will be
