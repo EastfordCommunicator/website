@@ -1,6 +1,7 @@
-**From the Superintendent**
-
-**Donna Leake**
+---
+title: From the Superintendent
+author: Donna Leake
+---
 
 The winter weather season has arrived. With it comes one of the most
 exciting messages a student can receive --- no school today due to snow
@@ -43,13 +44,13 @@ able to share that excitement with such fine middle school students."
 
 In other news:
 
-• The application process for the Ethel Cushing Gardner Scholarship is
+- The application process for the Ethel Cushing Gardner Scholarship is
 now open. This is a scholarship open to high school seniors and college
 level students who live in Eastford and have a serious interest in
 music. Additional information is available on the Eastford School
 website.
 
-• The Board of Education met on Dec. 11 and took the following actions:
+- The Board of Education met on Dec. 11 and took the following actions:
 We welcomed Nancy Neff to her first term; approved the re-appointment of
 Stephen Bowen as BOE chairman, Terry Cote as vice chairman and Adam
 Minor as secretary; and approved revisions to several policies.

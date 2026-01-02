@@ -1,25 +1,28 @@
-**VITAL STATISTICS**
+---
+title: Vital Statistics, Real Estate Transactions, and Meetings
+---
+## Vital Statistics
 
-**BIRTHS**
+### Births
 
 November: 0
 
-**MARRIAGES**
+### Marriages
 
 November: 0
 
-**DEATHS**
+### Deaths
 
 November: 1
 
-**REAL ESTATE TRANSACTIONS**
+## Real Estate Transactions
 
-Oct. 22: 6 Stone Mill Lane, \$302,500, Julie Burgess to Devin B.
+Oct. 22: 6 Stone Mill Lane, $302,500, Julie Burgess to Devin B.
 Waddicor
 
-**PUBLIC MEETINGS**
+## Public Meetings
 
-**JANUARY**
+### January
 
 Monday, Jan. 5: Board of Selectmen, 7 p.m., Town Office Building
 

@@ -1,4 +1,6 @@
-**[From the Eastford Independent Fire Company #1, Inc.]{.smallcaps}**
+---
+title: "From the Eastford Independent Fire Company #1, Inc."
+---
 
 How you can help us when we respond to your emergency: The importance of
 patient medical information at medical calls cannot be overstated. It is

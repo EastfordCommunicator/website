@@ -1,6 +1,7 @@
-**Did You Know?**
-
-**Eastford Historical Society**
+---
+title: Did You Know?
+author: Eastford Historical Society
+---
 
 Did you know that *Connecticut Magazine* once named Eastford the number
 one town in Connecticut (towns with a population below 4,500) for

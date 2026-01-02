@@ -1,6 +1,7 @@
-**From the First Selectman**
-
-**Deb Richards**
+---
+title: From the First Selectman
+author: Deb Richards
+---
 
 During this festive holiday season, I wish you a New Year filled with
 fresh hopes, new joys, and new beginnings. It is my hope that we will

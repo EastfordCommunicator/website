@@ -1,16 +1,7 @@
-CUTLINES: *Courtesy photo*
-
-1\.
-
-Cub Scout participants in the Rain Gutter Regatta.
-
-2\.
-
-The Scouts Court of Honor. Becket receives Merit Badges for achievement.
-
-**What's New at Boy Scout Troop 92**
-
-**Nord Yakovleff**
+---
+title: What's New at Boy Scout Troop 92
+author: Nord Yakovleff
+---
 
 Happy New Year, everyone!
 
@@ -18,10 +9,10 @@ December was a slow month for Scouts because of the holiday season. The
 Troop had a Court of Honor to award the many Merit Badges that have been
 earned by the Scouts. Four Scouts were advanced in rank.
 
-• Coming Up: Ski trip at Ski Sundown on Sunday, Jan. 4. This will be a
+- Coming Up: Ski trip at Ski Sundown on Sunday, Jan. 4. This will be a
 day trip.
 
-• Spring Trip: Potential orienteering trip to Stone's Ranch Military
+- Spring Trip: Potential orienteering trip to Stone's Ranch Military
 Reserve, in East Lyme. Possibly March or April. Scouts will learn
 compass skills and navigation at a camp out there. End of the year wrap
 up trip is still being discussed. High adventure!
@@ -40,3 +31,11 @@ month at St. Philip's Recreation Center. New members are welcome.
 *- Submitted by BSA Troop 92: Nord Yakovleff, Assistant Scoutmaster;
 Jesse Burnham, Scoutmaster; Rob Hany, Committee Chairman; Doug Jenne,
 Cubmaster*
+
+*Courtesy photo*
+
+![several cub scouts posing with homemade toy boats](/assets/images/34-6-scouts-1.jpg)
+Cub Scout participants in the Rain Gutter Regatta.
+
+![a scout receiving awards from adult scout leaders](/assets/images/34-6-scouts-2.jpg)
+The Scouts Court of Honor. Becket receives Merit Badges for achievement.

@@ -1,64 +1,7 @@
-CUTLINES: *Adam Minor photos*
-
-1\.
-
-Christmas carolers opened the Tree of Life Ceremony with a selection of
-festive songs.
-
-2\.
-
-Day Kimball Healthcare Foundation Director of Development Kristen E.
-Willis delivers a speech thanking people for their support of the Tree
-of Life event.
-
-3\.
-
-Congregational Church of Eastford Pastor Mike Moran delivers the
-invocation.
-
-4\.
-
-Hospice representatives Ashley Ravenelle, left, and Susan Honeychurch,
-deliver remarks.
-
-5\.
-
-Justin Loss thanks the people gathered at the event for their support as
-he prepares to light the Tree of Life in honor of his grandmother,
-Helene, who died in December 2024.
-
-6\.
-
-Justin Loss lights the Tree of Life at the Ivy Glenn Memorial.
-
-7\.
-
-Justin Loss and Susan Honeychurch conclude the event as carolers sing
-Christmas carols.
-
-9\.
-
-Christmas carolers sing "Silent Night" to conclude the event.
-
-10\.
-
-Justin Loss poses next to the Tree of Life, lit in honor of his
-grandmother, Helene.
-
-11\.
-
-From left, Hospice representative Ashley Ravenelle (with kids),
-Congregational Church of Eastford Pastor Mike Moran, Hospice
-representative Susan Honeychurch, and Justin Loss near the Tree of Life
-at the Ivy Glenn Memorial.
-
-HEAD:
-
-Tree of Life Ceremony pays tribute to lost friends and family
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+---
+title: Tree of Life Ceremony Pays Tribute to Lost Friends and Family
+author: Adam Minor
+---
 
 EASTFORD --- On Sunday, Dec. 7, people from all over northeastern
 Connecticut gathered together in 11 different locations to remember lost
@@ -105,3 +48,48 @@ ones this evening as we illuminate the Hospice Tree of Life. May we be
 reminded too of the compassionate caring and dedication of the Hospice
 Team, and may we look forward with hope that someday many dreaded
 diseases will be no more."
+
+
+*Adam Minor photos*
+
+![people singing on a the Ivy Glenn Memorial's front steps](/assets/images/34-6-tree-of-life-1.jpg)
+Christmas carolers opened the Tree of Life Ceremony with a selection of
+festive songs.
+
+![a woman speaking](/assets/images/34-6-tree-of-life-2.jpg)
+Day Kimball Healthcare Foundation Director of Development Kristen E.
+Willis delivers a speech thanking people for their support of the Tree
+of Life event.
+
+![a man speaking](/assets/images/34-6-tree-of-life-3.jpg)
+Congregational Church of Eastford Pastor Mike Moran delivers the
+invocation.
+
+![two people speaking](/assets/images/34-6-tree-of-life-4.jpg)
+Hospice representatives Ashley Ravenelle, left, and Susan Honeychurch,
+deliver remarks.
+
+![a man speaking in front of a tree](/assets/images/34-6-tree-of-life-5.jpg)
+Justin Loss thanks the people gathered at the event for their support as
+he prepares to light the Tree of Life in honor of his grandmother,
+Helene, who died in December 2024.
+
+![a man in front of a Christmas tree with lights](/assets/images/34-6-tree-of-life-6.jpg)
+Justin Loss lights the Tree of Life at the Ivy Glenn Memorial.
+
+![two people by a Christmas tree](/assets/images/34-6-tree-of-life-7.jpg)
+Justin Loss and Susan Honeychurch conclude the event as carolers sing
+Christmas carols.
+
+![two people by a Christmas tree, people singing from song books](/assets/images/34-6-tree-of-life-9.jpg)
+Christmas carolers sing "Silent Night" to conclude the event.
+
+![a man poses by a Christmas tree](/assets/images/34-6-tree-of-life-10.jpg)
+Justin Loss poses next to the Tree of Life, lit in honor of his
+grandmother, Helene.
+
+![several people posing in front of a Christmas tree](/assets/images/34-6-tree-of-life-11.jpg)
+From left, Hospice representative Ashley Ravenelle (with kids),
+Congregational Church of Eastford Pastor Mike Moran, Hospice
+representative Susan Honeychurch, and Justin Loss near the Tree of Life
+at the Ivy Glenn Memorial.

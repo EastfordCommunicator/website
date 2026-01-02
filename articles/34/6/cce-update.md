@@ -1,6 +1,7 @@
-**From the Congregational Church of Eastford**
-
-**Evan Burgess**
+---
+title: From the Congregational Church of Eastford
+author: Evan Burgess
+---
 
 Well, the holidays are over, and the year 2025 is now fading into the
 rear-view mirror. The old is gone and the new has come. And with every

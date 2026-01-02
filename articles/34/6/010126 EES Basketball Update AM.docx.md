@@ -1,56 +1,7 @@
-CUTLINES: *Adam Minor photos*
-
-1\.
-
-Zoë Labonte brings the ball up the court against St. James on Dec. 4.
-
-2\.
-
-Georgia Barlow and Aiyana Reed line up for an inbounds pass against St.
-James on Dec. 4.
-
-3\.
-
-Zach Hutchings speaks to the girls during a timeout against Parish Hill
-on Dec. 8.
-
-4\.
-
-Georgia Barlow makes the inbound pass against Parish Hill on Dec. 8.
-
-5\.
-
-Olivia DePercio brings the ball up the court against Parish Hill on Dec.
-8.
-
-6\.
-
-Charlie Ellsworth plays tough defense against Parish Hill on Dec. 8.
-
-7\.
-
-Zach Hutchings coaches his team during a timeout in their game against
-Wheeler on Dec. 11.
-
-8\.
-
-Callum St. John brings the ball up the court against Wheeler on Dec. 11.
-
-9\.
-
-Zoë Labonte handles the ball against Pomfret on Dec. 16.
-
-10\.
-
-Georgia Barlow handles the ball against Ashford on Dec. 18.
-
-HEAD:
-
-Bulldogs boys' team remains competitive heading into holiday break
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+---
+title: Bulldogs boys' team remains competitive heading into holiday break
+author: Adam Minor
+---
 
 *Editor's Note: Live coverage of the Eastford Bulldogs basketball season
 is posted after every game on the Eastford Communicator's Facebook page.
@@ -73,7 +24,7 @@ in nearly three years, and Head Coach Zach Hutchings, who is in his
 fourth year with the program, was excited to see if it would continue to
 trend upward for the Bulldogs.
 
-"I couldn't be \[prouder\] of the boys," Hutchings said after the game
+"I couldn't be prouder of the boys," Hutchings said after the game
 on Dec. 8. "They showed hustle and grit that I hope to continue to see
 throughout this season. I can't wait to go get some more."
 
@@ -95,7 +46,7 @@ portion of their schedule with a visit to North Stonington, and a
 rematch with Wheeler on Tuesday, Jan. 6. Tipoff (Varsity only) is slated
 for 3:30 p.m.
 
-**BULLDOGS GIRLS' TEAM SEARCHING FOR ELUSIVE FIRST WIN**
+## Bulldogs Girls' Team Searching For Elusive First Win
 
 Shifting gears to the Bulldogs girls' team, the first all-girls team in
 several years has been fighting for that first win, but it has not come
@@ -113,63 +64,63 @@ portion of their schedule by hosting Wheeler on Tuesday, Jan. 6. Junior
 Varsity will tip off at 3:30 p.m., and Varsity tipoff is slated for 4:15
 p.m.
 
-**BOYS**
+## Boys
 
-• Thursday, Dec. 4: vs. St. James, L, 35-43
+- Thursday, Dec. 4: vs. St. James, L, 35-43
 
-• Monday, Dec. 8: vs. Parish Hill, W, 43-33
+- Monday, Dec. 8: vs. Parish Hill, W, 43-33
 
-• Thursday, Dec. 11: vs. Wheeler, W, 45-31
+- Thursday, Dec. 11: vs. Wheeler, W, 45-31
 
-• Tuesday, Dec. 16: vs. Pomfret, L, 22-43
+- Tuesday, Dec. 16: vs. Pomfret, L, 22-43
 
-• Thursday, Dec. 18: vs. Ashford, POSTPONED (DATE TBD)
+- Thursday, Dec. 18: vs. Ashford, POSTPONED (DATE TBD)
 
-• Tuesday, Jan. 6: @ Wheeler, 3:30 p.m. (Varsity Only), Wheeler High
+- Tuesday, Jan. 6: @ Wheeler, 3:30 p.m. (Varsity Only), Wheeler High
 School, 297 Norwich-Westerly Rd, North Stonington
 
-• Thursday, Jan. 8: @ Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Jan. 8: @ Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Pomfret Community School, 20 Pomfret St., Pomfret
 
-• Monday, Jan. 12: @ Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Monday, Jan. 12: @ Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Ashford Elementary School, 440 Westford Rd., Ashford
 
-• Thursday, Jan. 15: @ St. James, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Jan. 15: @ St. James, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 St. James Parochial School, 120 Water St, Danielson
 
-• Tuesday, Jan. 20: @ Parish Hill, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Tuesday, Jan. 20: @ Parish Hill, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Parish Hill Middle School, 304 Parish Hill Rd, Chaplin
 
-**GIRLS**
+## Girls
 
-• Thursday, Dec. 4: @ St. James, L, 4-45
+- Thursday, Dec. 4: @ St. James, L, 4-45
 
-• Monday, Dec. 8: vs. Parish Hill, L, 6-57
+- Monday, Dec. 8: vs. Parish Hill, L, 6-57
 
-• Thursday, Dec. 11: @ Wheeler, L, 16-50
+- Thursday, Dec. 11: @ Wheeler, L, 16-50
 
-• Tuesday, Dec. 16: @ Pomfret, L, 14-49
+- Tuesday, Dec. 16: @ Pomfret, L, 14-49
 
-• Thursday, Dec. 18: @ Ashford, L, 2-73
+- Thursday, Dec. 18: @ Ashford, L, 2-73
 
-• Tuesday, Jan. 6: vs. Wheeler, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Tuesday, Jan. 6: vs. Wheeler, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
 
-• Thursday, Jan. 8: vs. Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Jan. 8: vs. Pomfret, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
 
-• Monday, Jan. 12: vs. Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Monday, Jan. 12: vs. Ashford, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
 
-• Thursday, Jan. 15: vs. St. James, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
+- Thursday, Jan. 15: vs. St. James, 3:30 p.m. (JV), 4:15 p.m. (Varsity);
 Eastford Elementary School
 
-• Tuesday, Jan. 20: vs. Parish Hill, 3:30 p.m. (JV), 4:15 p.m.
+- Tuesday, Jan. 20: vs. Parish Hill, 3:30 p.m. (JV), 4:15 p.m.
 (Varsity); Eastford Elementary School
 
-**SEASON SCORING LEADERS**
+### Season Scoring Leaders
 
-**BOYS**
+### Boys
 
 Callum St. John: 50 (12.5 ppg)
 
@@ -183,7 +134,7 @@ Blake Gilbert: 15 (3.8 ppg)
 
 Ryan Collard: 9 (2.3 ppg)
 
-**GIRLS**
+### Girls
 
 Mackenzie Lathrop: 21 (4.2 ppg)
 
@@ -196,3 +147,40 @@ Emma-Lynn Salony: 3 (0.6 ppg)
 Georgia Barlow: 2 (0.4 ppg)
 
 Aiyana Reed: 1 (0.2 ppg)
+
+
+*Adam Minor photos*
+
+![](/assets/images/34-6-bulldogs-1.jpg)
+Zoë Labonte brings the ball up the court against St. James on Dec. 4.
+
+![](/assets/images/34-6-bulldogs-2.jpg)
+Georgia Barlow and Aiyana Reed line up for an inbounds pass against St.
+James on Dec. 4.
+
+![](/assets/images/34-6-bulldogs-3.jpg)
+Zach Hutchings speaks to the girls during a timeout against Parish Hill
+on Dec. 8.
+
+![](/assets/images/34-6-bulldogs-4.jpg)
+Georgia Barlow makes the inbound pass against Parish Hill on Dec. 8.
+
+![](/assets/images/34-6-bulldogs-5.jpg)
+Olivia DePercio brings the ball up the court against Parish Hill on Dec.
+8.
+
+![](/assets/images/34-6-bulldogs-6.jpg)
+Charlie Ellsworth plays tough defense against Parish Hill on Dec. 8.
+
+![](/assets/images/34-6-bulldogs-7.jpg)
+Zach Hutchings coaches his team during a timeout in their game against
+Wheeler on Dec. 11.
+
+![](/assets/images/34-6-bulldogs-8.jpg)
+Callum St. John brings the ball up the court against Wheeler on Dec. 11.
+
+![](/assets/images/34-6-bulldogs-9.jpg)
+Zoë Labonte handles the ball against Pomfret on Dec. 16.
+
+![](/assets/images/34-6-bulldogs-10.jpg)
+Georgia Barlow handles the ball against Ashford on Dec. 18.

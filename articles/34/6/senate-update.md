@@ -1,6 +1,7 @@
-**Senate Update**
-
-**Jeff Gordon**
+---
+title: Senate Update
+author: Jeff Gordon
+---
 
 I wish your family and you the best this holiday season and when the new
 year starts!
@@ -25,7 +26,7 @@ rights, and medical freedoms.
 I'm proud to represent and work for you and Eastford. As always, please
 reach out to me if I can help you with a constituent matter, answer a
 question, or take up a concern. You can call my office at 860-240-8800,
-e-mail me at jeffrey.gordon@cga.ct.gov, check for news and updates at
-www.senatorgordon.com, or learn about what I am doing on Facebook at
+e-mail me at <jeffrey.gordon@cga.ct.gov>, check for news and updates at
+[www.senatorgordon.com], or learn about what I am doing on Facebook at
 "Senator Jeff Gordon." Through my website, you can sign up for my
 e-newsletters (Common Sense Matters).
