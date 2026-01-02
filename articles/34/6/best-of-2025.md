@@ -1,5 +1,6 @@
 ---
 title: The Best of 2025 in Photos
+layoutNumber: 5
 ---
 ## January
 
