@@ -151,36 +151,36 @@ Aiyana Reed: 1 (0.2 ppg)
 
 *Adam Minor photos*
 
-![](/assets/images/34-6-bulldogs-1.jpg)
+![a child wearing a blue uniform dribbling a basketball](/assets/images/34-6-bulldogs-1.jpg)
 Zoë Labonte brings the ball up the court against St. James on Dec. 4.
 
-![](/assets/images/34-6-bulldogs-2.jpg)
+![two children in blue Eastford uniforms between two children with red St. James uniforms](/assets/images/34-6-bulldogs-2.jpg)
 Georgia Barlow and Aiyana Reed line up for an inbounds pass against St.
 James on Dec. 4.
 
-![](/assets/images/34-6-bulldogs-3.jpg)
+![several children in blue uniforms with an adult; a referee is in the background](/assets/images/34-6-bulldogs-3.jpg)
 Zach Hutchings speaks to the girls during a timeout against Parish Hill
 on Dec. 8.
 
-![](/assets/images/34-6-bulldogs-4.jpg)
+![children in blue uniforms play against children in green uniforms](/assets/images/34-6-bulldogs-4.jpg)
 Georgia Barlow makes the inbound pass against Parish Hill on Dec. 8.
 
-![](/assets/images/34-6-bulldogs-5.jpg)
+![a child wearing a blue uniform dribbling a basketball](/assets/images/34-6-bulldogs-5.jpg)
 Olivia DePercio brings the ball up the court against Parish Hill on Dec.
 8.
 
-![](/assets/images/34-6-bulldogs-6.jpg)
+![a child in a blue uniform tries to take a ball from a child in a green uniform](/assets/images/34-6-bulldogs-6.jpg)
 Charlie Ellsworth plays tough defense against Parish Hill on Dec. 8.
 
-![](/assets/images/34-6-bulldogs-7.jpg)
+![children in blue uniforms listen to their coach](/assets/images/34-6-bulldogs-7.jpg)
 Zach Hutchings coaches his team during a timeout in their game against
 Wheeler on Dec. 11.
 
-![](/assets/images/34-6-bulldogs-8.jpg)
+![a child wearing a blue uniform dribbling a basketball; a child in a burgundy uniform is trying to take it](/assets/images/34-6-bulldogs-8.jpg)
 Callum St. John brings the ball up the court against Wheeler on Dec. 11.
 
-![](/assets/images/34-6-bulldogs-9.jpg)
+![a child wearing a blue uniform dribbling a basketball](/assets/images/34-6-bulldogs-9.jpg)
 Zoë Labonte handles the ball against Pomfret on Dec. 16.
 
-![](/assets/images/34-6-bulldogs-10.jpg)
+![a child wearing a blue uniform dribbling a basketball, a child in a green and white uniform is trying to take it](/assets/images/34-6-bulldogs-10.jpg)
 Georgia Barlow handles the ball against Ashford on Dec. 18.
