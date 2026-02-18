@@ -1,6 +1,7 @@
-**From the Congregational Church of Eastford**
-
-**Evan Burgess**
+---
+title: From the Congregational Church of Eastford
+author: Evan Burgess
+---
 
 Every February, our culture observes Valentine's Day, a day set apart to
 celebrate love. However, if you take a look at how our culture
@@ -50,17 +51,17 @@ one aspect it reiterates is how love endures. "Love bears all things,
 believes all things, hopes all things, endures all things. Love never
 ends." Where does this love come from, and how can you experience it?
 
-Well, I\'ll be straight forward. This love is found in Jesus.
+Well, I'll be straight forward. This love is found in Jesus.
 
 Depending on who you are, dear reader, this may cause you to either roll
 your eyes, laugh, or nod in agreement. When I first heard it stated that
 a man who lived 2,000 years ago had something to offer me, it left me
 more confused than anything else, until I experienced it myself. Jesus
-isn\'t as explosive or alluring as what our culture is trying to sell
-you, but I\'ve found His to be the most genuine, steady, and compelling.
+isn't as explosive or alluring as what our culture is trying to sell
+you, but I've found His to be the most genuine, steady, and compelling.
 
 If you'd like to learn more, I'd invite you to either come visit our
 church (10 a.m. every Sunday at the Eastford Elementary School), or
-reach out to me (evan.cceastford@gmail.com). And happy Valentine's Day!
+reach out to me (<evan.cceastford@gmail.com>). And happy Valentine's Day!
 May our town be a place where the explosion of romantic love stirs up
 more of the real, quiet love we all need.

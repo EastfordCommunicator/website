@@ -1,5 +1,5 @@
 ---
-title: What's New with Scout Troop 92?*
+title: What's New with Scout Troop 92?
 ---
 ASHFORD/EASTFORD --- In early January, Scouts in Troop 92 enjoyed a ski
 trip to Mt. Ski Sundown. This was a daytrip. There were no injuries.

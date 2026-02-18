@@ -1,11 +1,9 @@
-CUTLINE: *File photo*
+---
+title: Spring or Winter Ahead? Scramble set for Annual Prediction
+---
+*Scramble the Duck is scheduled to make his annual seasonal prediction at
+the Ivy Glenn Memorial on Monday, Feb. 2, at 7:30 a.m.*
 
-Scramble the Duck is scheduled to make his annual seasonal prediction at
-the Ivy Glenn Memorial on Monday, Feb. 2, at 7:30 a.m.
-
-HEAD: Spring or winter ahead?
-
-SUB HEAD: Scramble set for annual prediction
 
 EASTFORD --- Scramble the Duck is once again ready to make his annual
 prediction!
@@ -26,4 +24,9 @@ prediction will be accurate, and will choose one of two scrolls, which
 will declare his prediction.
 
 For those not able to attend in person, the event will also be live
-streamed at scrambletheduck.org/livestream.
+streamed at [scrambletheduck.org/livestream](https://scrambletheduck.org/livestream).
+
+
+*File photo*
+
+![a duck](/assets/images/34-7-scramble-2.jpg)

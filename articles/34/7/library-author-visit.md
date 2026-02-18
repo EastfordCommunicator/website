@@ -1,5 +1,5 @@
 ---
-title: Library welcomes Rhode Island author for discussion event
+title: Library Welcomes Rhode Island Author for Discussion Event
 ---
 
 EASTFORD --- On Saturday, Jan. 17, the Eastford Public Library welcomed

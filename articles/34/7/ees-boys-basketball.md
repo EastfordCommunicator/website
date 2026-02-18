@@ -1,54 +1,8 @@
-CUTLINES: *Adam Minor photos*
-
-1\.
-
-The 2025-26 Eastford Bulldogs boys' varsity team. Top row, from left,
-Head Coach Zach Hutchings, Callum St. John, Charlie Ellsworth, Sylas
-Platt, Ryan Collard, and Assistant Coach Chris St. John. Bottom row,
-from left, Logan Gillett, Blake Gilbert, Trey Hutchings, Christian
-Anderson, and Jackson Ritter.
-
-2\.
-
-Charlie Ellsworth handles the ball against Pomfret on Jan. 8.
-
-3\.
-
-From left, Callum St. John, Charlie Ellsworth, Sylas Platt, and Ryan
-Collard defend against Ashford on Jan. 12.
-
-4\.
-
-Callum St. John and Blake Gilbert play defense against Ashford on Jan.
-14.
-
-5\.
-
-The Bulldogs celebrate their first win of the season against Parish Hill
-on Dec. 8.
-
-6\.
-
-Coach Zach Hutchings rallies his team during a timeout against Wheeler
-on Dec. 11.
-
-7\.
-
-Sylas Platt, left, and Charlie Ellsworth prepare to defend an inbounds
-play against Wheeler on Dec. 11.
-
-8\.
-
-Jackson Ritter, middle, with Sylas Platt and Callum St. John behind him,
-prepare on defense during their game against Ashford on Jan. 14.
-
-HEAD: Bulldogs boys' team celebrates positives as season concludes
-
-SUB HEAD: Hutchings touts 'heart and effort' as program looks to future
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+---
+title: Bulldogs Boys' Team Celebrates Positives as Season Concludes
+author: Adam Minor
+---
+*Hutchings touts 'heart and effort' as program looks to future*
 
 EASTFORD --- The Eastford Bulldogs boys' basketball season was a story
 of ups and downs.
@@ -97,7 +51,7 @@ contributions, and sharp shooting, were imperative to the wins we got
 this season," he said, adding that Collard, as well as eighth grader
 Aiden Abbamonte were "amazing additions" to the team as well.
 
-"\[Collard and Abbamonte\] showed tremendous effort and contagious,
+"[Collard and Abbamonte] showed tremendous effort and contagious,
 positive attitudes," Hutchings said. "The whole team wishes they had
 played more than one year."
 
@@ -120,33 +74,23 @@ will be missed. Thank you, Chris."
 See below for a complete season schedule recap, as well as a points
 total breakdown.
 
-**FINAL SEASON RECORD**
+## Final Season Record
 
-**BOYS**
+### Boys
+- Thursday, Dec. 4: vs. St. James, L, 35-43
+- Monday, Dec. 8: vs. Parish Hill, W, 43-33
+- Thursday, Dec. 11: vs. Wheeler, W, 45-31
+- Tuesday, Dec. 16: vs. Pomfret, L, 22-43
+- Tuesday, Jan. 6: @ Wheeler, L, 28-55
+- Thursday, Jan. 8: @ Pomfret, L, 43-59
+- Monday, Jan. 12: @ Ashford, L, 40-51
+- Wednesday, Jan. 14: vs. Ashford, L, 32-53
+- Thursday, Jan. 15: @ St. James, L, 55-66
+- Tuesday, Jan. 20: @ Parish Hill, L, 41-61
 
-• Thursday, Dec. 4: vs. St. James, L, 35-43
+## Final Season Scoring Totals
 
-• Monday, Dec. 8: vs. Parish Hill, W, 43-33
-
-• Thursday, Dec. 11: vs. Wheeler, W, 45-31
-
-• Tuesday, Dec. 16: vs. Pomfret, L, 22-43
-
-• Tuesday, Jan. 6: @ Wheeler, L, 28-55
-
-• Thursday, Jan. 8: @ Pomfret, L, 43-59
-
-• Monday, Jan. 12: @ Ashford, L, 40-51
-
-• Wednesday, Jan. 14: vs. Ashford, L, 32-53
-
-• Thursday, Jan. 15: @ St. James, L, 55-66
-
-• Tuesday, Jan. 20: @ Parish Hill, L, 41-61
-
-**FINAL SEASON SCORING TOTALS**
-
-**POINTS TOTALS\***
+### Points Totals
 
 Callum St. John: 123
 
@@ -162,5 +106,42 @@ Ryan Collard: 15
 
 Trey Hutchings: 3
 
-*\*Scoring statistics do not include points scored during game against
+**Scoring statistics do not include points scored during game against
 Wheeler on Jan. 6 -- stats were not made available for this game.*
+
+
+*Adam Minor photos*
+
+![](/assets/images/34-7-1-25-26-boys-bulldogs-v.jpg)
+The 2025-26 Eastford Bulldogs boys' varsity team. Top row, from left,
+Head Coach Zach Hutchings, Callum St. John, Charlie Ellsworth, Sylas
+Platt, Ryan Collard, and Assistant Coach Chris St. John. Bottom row,
+from left, Logan Gillett, Blake Gilbert, Trey Hutchings, Christian
+Anderson, and Jackson Ritter.
+
+![](/assets/images/34-7-2-boys-bb-pomfret-0108.jpg)
+Charlie Ellsworth handles the ball against Pomfret on Jan. 8.
+
+![](/assets/images/34-7-3-boys-bb-ashford-0112.jpg)
+From left, Callum St. John, Charlie Ellsworth, Sylas Platt, and Ryan
+Collard defend against Ashford on Jan. 12.
+
+![](/assets/images/34-7-4-boys-bb-ashford-0114.jpg)
+Callum St. John and Blake Gilbert play defense against Ashford on Jan.
+14.
+
+![](/assets/images/34-7-5-boys-bb-ph-1208.png)
+The Bulldogs celebrate their first win of the season against Parish Hill
+on Dec. 8.
+
+![](/assets/images/34-7-6-boys-bb-wheeler-1211.jpg)
+Coach Zach Hutchings rallies his team during a timeout against Wheeler
+on Dec. 11.
+
+![](/assets/images/34-7-7-boys-bb-wheeler-1211.jpg)
+Sylas Platt, left, and Charlie Ellsworth prepare to defend an inbounds
+play against Wheeler on Dec. 11.
+
+![](/assets/images/34-7-8-boys-bb-ashford-0114.jpg)
+Jackson Ritter, middle, with Sylas Platt and Callum St. John behind him,
+prepare on defense during their game against Ashford on Jan. 14.
