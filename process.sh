@@ -23,13 +23,17 @@ echo "files copied"
 
 mmv -c './*/* *.jpg' "../../assets/images/$volume-$issue-#l2-#l3.jpg"
 
+mmv -c './*/* *.JPG' "../../assets/images/$volume-$issue-#l2-#l3.jpg"
+
 mmv -c './*/* *.png' "../../assets/images/$volume-$issue-#l2-#l3.png"
+
+mmv -c './*/* *.PNG' "../../assets/images/$volume-$issue-#l2-#l3.png"
 
 echo "images copied"
 
 echo "files not copied; do not meet selectors!--"
 
-find -not -iname "*.jpg" -and -not -iname "*.png" -and -not -iname "*.docx" -and -not -type d
+find -not -iname "*.jpg" -and -not -iname "*.png" -and -not -name "*.docx" -and -not -type d
 
 cd "../../"
 
