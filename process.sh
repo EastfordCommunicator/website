@@ -20,9 +20,9 @@ mv ./*/*.md ../../articles/$volume/$issue/
 
 echo "files copied"
 
-mmv -c './*/* *.jpg' "../../assets/images/$volume-$issue#l2-#l3.jpg"
+mmv -c './*/* *.jpg' "../../assets/images/$volume-$issue-#l2-#l3.jpg"
 
-mmv -c './*/* *.png' "../../assets/images/$volume-$issue#l2-#l3.png"
+mmv -c './*/* *.png' "../../assets/images/$volume-$issue-#l2-#l3.png"
 
 echo "images copied"
 
