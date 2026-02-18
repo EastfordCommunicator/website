@@ -2,6 +2,7 @@
 
 read -r -p "Type volume: " volume
 read -r -p "Type issue: " issue
+read -r -p "Type date YYYY-MM-DD: " date
 
 echo "volume $volume, issue $issue"
 
@@ -31,5 +32,24 @@ echo "files not copied; do not meet selectors!--"
 find -not -iname "*.jpg" -and -not -iname "*.png" -and -not -iname "*.docx" -and -not -type d
 
 cd "../../"
+
+echo "creating JSON"
+
+touch  "./articles/$volume/$issue/$issue.json" 
+
+echo "{
+    \"volume\": $volume,
+    \"issue\": $issue,
+    \"pdfUrl\": \"https://files.eastford.news/$volume-$issue.pdf\",
+    \"date\": \"$date\",
+    \"issueTitle\": \"\",
+    \"color\": \"\",
+    \"articleCategories\": [\"article\"],
+    \"editors\": [
+        {\"role\": \"Editor-in-Chief\", \"name\": \"Adam Minor\"},
+        {\"role\": \"Web Editor\", \"name\": \"Micah Torcellini\"}
+    ]
+}" > "./articles/$volume/$issue/$issue.json" 
+
 
 echo "finished"
