@@ -5,7 +5,7 @@ layoutNumber: 2
 
 *Calendar entries must be sent to the editor no later than the 15th of
 the month preceding publishing. Please send all calendar content to
-<eastfordnews@gmail.co>m. Please limit calendar submissions to less than
+<eastfordnews@gmail.com>. Please limit calendar submissions to less than
 100 words.*
 
 ## March
