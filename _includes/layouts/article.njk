@@ -5,7 +5,7 @@ eleventyComputed:
     tags: ["{{ volume }}_{{ issue }}", "article"]
     permalink: "{{ volume }}/{{ issue }}/{{ page.fileSlug }}/"
 ---
-<h1>{{ title | safe  }}</h1>
+<h1>{{ title | safe  | shortTitle }}</h1>
 {% set subtitle = title | safe | subtitle %}
 {% if subtitle %}
     <p class="subtitle">{{ subtitle | safe }}</p>
