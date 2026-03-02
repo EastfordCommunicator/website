@@ -1,5 +1,5 @@
 ---
-title: Building Hope in Eastford: A Season of Visible Progress
+title: "Building Hope in Eastford: A Season of Visible Progress"
 author: Eric Payer
 ---
 EASTFORD --- When I first arrived in Eastford, I was struck by the quiet

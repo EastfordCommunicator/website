@@ -1,5 +1,5 @@
 ---
-title: We need your support!
+title: We Need Your support!
 ---
 
 We are entering budget time --- that time when the town's government

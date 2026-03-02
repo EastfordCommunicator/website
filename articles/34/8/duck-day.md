@@ -1,5 +1,5 @@
 ---
-title: "Scramble has Spoken: 'Duck Day' Tradition Continues"
+title: "Scramble Has Spoken: 'Duck Day' Tradition Continues"
 author: Adam Minor
 ---
 *Six more weeks of winter predicted by Eastford's own

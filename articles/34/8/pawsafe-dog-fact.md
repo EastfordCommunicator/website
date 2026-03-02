@@ -17,4 +17,4 @@ home with calm, loyal devotion.
 
 Tater is microchipped, medically up to date, and ready to meet her
 match. Come meet her at PawSafe, 348 Old Colony Rd., Eastford. Learn
-more at [www.pawsafe.org].
+more at [www.pawsafe.org](https://pawsafe.org/).

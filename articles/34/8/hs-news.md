@@ -164,4 +164,4 @@ additional information.
 
 EASTCONN is a public, non-profit Regional Educational Service Center
 that has served the educational needs of northeastern Connecticut
-communities since 1980. Learn more at [www.eastconn.org].
+communities since 1980. Learn more at [www.eastconn.org](https://www.eastconn.org/).

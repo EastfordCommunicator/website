@@ -15,8 +15,6 @@ heart-shaped sugar cookies.
 
 ![](/assets/images/34-8-library-valentines-3.jpg)
 
-![](/assets/images/34-8-library-valentines-4.jpg)
-
 ![](/assets/images/34-8-library-valentines-5.jpg)
 
 ![](/assets/images/34-8-library-valentines-6.jpg)

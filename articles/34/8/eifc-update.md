@@ -15,7 +15,7 @@ The department responded to 22 "911" calls during the month of January.
 
 Welcome our newest member, Gavin Driscoll, to the department.
 
-In addition to the monthly business meeting, twww.ct.gov/cdhiruck checks, and line
+In addition to the monthly business meeting, truck checks, and line
 officers meeting, drills were held on SCBAs, mandatory
 airborne/bloodborne pathogens, sexual harassment in the workplace and
 HIPAA.
@@ -55,6 +55,6 @@ Recommendation: Research shows that restoring hearing loss with hearing
 aids may not only improve the quality of life, but could also extend it.
 
 For further information, call 1-800-708-6796, 860-231-8756 or
-[www.ct.gov/cdhi].
+www.ct.gov/cdhi.
 
 *- Submitted by Jeannine Spink*

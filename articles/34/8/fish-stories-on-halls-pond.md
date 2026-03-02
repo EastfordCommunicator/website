@@ -1,5 +1,5 @@
 ---
-title: "A day on Halls Pond: Locals Share Fishing Stories on a Frigid February Weekend"
+title: "A Day on Halls Pond: Locals Share Fishing Stories on a Frigid February Weekend"
 author: Randall Chinnock
 ---
 EASTFORD --- What drives people to sit out on a frozen pond for hours in
