@@ -1,0 +1,13 @@
+{
+    "volume": 34,
+    "issue": 8,
+    "pdfUrl": "https://files.eastford.news/34-8.pdf",
+    "date": "2026-03-01",
+    "issueTitle": "",
+    "color": "",
+    "articleCategories": ["article"],
+    "editors": [
+        {"role": "Editor-in-Chief", "name": "Adam Minor"},
+        {"role": "Web Editor", "name": "Micah Torcellini"}
+    ]
+}
