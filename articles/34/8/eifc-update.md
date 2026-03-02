@@ -54,7 +54,6 @@ in the inner ear, which can lead to hearing difficulties.
 Recommendation: Research shows that restoring hearing loss with hearing
 aids may not only improve the quality of life, but could also extend it.
 
-For further information, call 1-800-708-6796, 860-231-8756 or
-www.ct.gov/cdhi.
+For further information, call 1-800-708-6796 or 860-231-8756.
 
 *- Submitted by Jeannine Spink*
