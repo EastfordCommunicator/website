@@ -1,18 +1,21 @@
-**VITAL STATISTICS**
+---
+title: Vital Statistics, Real Estate, Police Report, Public Meetings
+---
+## Vital Statistics
 
-**BIRTHS**
+## Births
 
 February: 3
 
-**MARRIAGES**
+## Marriages
 
 February: 1
 
-**DEATHS**
+## Deaths
 
 February: 2
 
-**REAL ESTATE TRANSACTIONS**
+## Real Estate Transactions
 
 Jan. 21: Ashford Rd., $85,000, Westford Development LLC to Essential
 Dev LLC
@@ -24,7 +27,7 @@ Robin Vallese
 
 Jan. 28: 101 Westford Rd., $25,000, Joanne Ramey to Madelyn Filomeno
 
-**POLICE REPORT -- TROOP D**
+## Police Report -- Troop D
 
 During the month of January, Troop D Troopers responded to 34 calls for
 service in the Town of Eastford. Of these calls for service the most
@@ -49,9 +52,9 @@ Traffic Citations: 5
 
 Written Warnings: 1
 
-**PUBLIC MEETINGS**
+## Public Meetings
 
-**APRIL**
+### April
 
 Monday, April 6: Board of Selectmen, 7 p.m., Town Office Building
 
@@ -61,7 +64,7 @@ Tuesday, April 7: Conservation and Historic Preservation Commission
 Wednesday, April 8: Crystal Pond Park Commission, 6 p.m., Woodstock Town
 Hall, 415 Route 169, Woodstock, CT 06281
 
-Thursday, April 9: Bowen\'s Field Committee, 6 p.m., Town Office
+Thursday, April 9: Bowen's Field Committee, 6 p.m., Town Office
 Building; Board of Education, 6 p.m., Eastford Elementary School Library
 
 Sunday, April 12: Recreation Commission, 3:30 p.m., Town Office Building

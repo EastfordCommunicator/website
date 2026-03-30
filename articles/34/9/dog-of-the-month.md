@@ -1,9 +1,11 @@
-**PawSafe Dog of the Month**
+---
+title: PawSafe Dog of the Month
+---
 
 **Did You Know?**
 
 Dalmatians are born spotless! Dalmatians are famous for their black and
-white spots, but they\'re actually born with a coat that\'s entirely
+white spots, but they're actually born with a coat that's entirely
 white. They begin developing their spots about 2-4 weeks after birth ---
 though their skin already carries the pigment from day one.
 

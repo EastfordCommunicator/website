@@ -1,10 +1,9 @@
-HEAD: Planning Commission releases results from POCD survey
+---
+title: Planning Commission Releases Results from POCD Survey
+author: Adam Minor
+---
 
-JUMP HEAD: Survey results reveal opinions on several big picture topics
-
-BY ADAM MINOR
-
-MANAGING EDITOR
+*Survey results reveal opinions on several big picture topics*
 
 EASTFORD --- Over the past few months, the Planning Commission has been
 hard at work collecting input from town residents about what they want
@@ -13,8 +12,8 @@ to see in the town in the years to come.
 The town's "Plan of Conservation & Development (POCD)" sets the vision
 for how the town moves forward over the next 10 years, and the Planning
 Commission has been responsible for updating the POCD at a minimum of
-once every 10 years, as required by state statutes. Eastford\'s POCD was
-last updated in 2016 (https://www.eastfordct.gov/media/151). The updated
+once every 10 years, as required by state statutes. [Eastford's POCD was
+last updated in 2016](https://www.eastfordct.gov/media/151). The updated
 survey provided an opportunity for the town to consider whether to make
 changes in the goals and objectives for the community.
 
@@ -72,5 +71,5 @@ rural roads. Old Colony Road and Westford Road were specifically
 mentioned as "high risk areas."
 
 These results are just a fraction of the data collected by the survey.
-To access a copy of the POCD survey results, visit the Planning
-Commission website at https://www.eastfordct.gov/planning-commission.
+To access a copy of the POCD survey results, [visit the Planning
+Commission website](https://www.eastfordct.gov/planning-commission).

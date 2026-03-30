@@ -1,8 +1,6 @@
-CUTLINES: *Courtesy photos*
-
-HEAD:
-
-Just desserts: 'Cupcake Wars' brings back confectionary competition
+---
+title: "Just desserts: 'Cupcake Wars' Brings Back Confectionary Competition"
+---
 
 EASTFORD --- The 8th Annual Cupcake Wars celebrated sweet success on
 Saturday, Feb. 28.
@@ -30,40 +28,70 @@ Women's ministry as a door prize.
 Thank you to all who participated and to all who attended! See you next
 year!
 
-**RESULTS**
+## Results
 
-JUNIOR DISPLAY
+### Junior Display
 
 First Place: Alina Platt
 
 Runner Up: Penny York
 
-SENIOR DISPLAY
+### Senior Display
 
 First Place: Susan Webster
 
 Runner Up: Tianna DeSalvo
 
-JUNIOR RECIPE
+### Junior Recipe
 
 First Place: Alina Platt
 
 Runner Up: Penny York
 
-SENIOR RECIPE
+### Senior Recipe
 
 First Place: Tianna DeSalvo
 
 Runner Up: Susan Webster
 
-PEOPLE'S CHOICE (DISPLAY)
+### People's Choice (Display)
 
 Junior: Alina Platt
 
 Senior: Susan Webster
 
-PEOPLE'S CHOICE (RECIPE)
+### People's Choice (Recipe)
 
 Junior: Penny York
 
 Senior: Lauren Barlow
+
+
+*Courtesy photos*
+![](/assets/images/34-9-cupcake-wars-1.jpg)
+
+![](/assets/images/34-9-cupcake-wars-2.jpg)
+
+![](/assets/images/34-9-cupcake-wars-3.jpg)
+
+![](/assets/images/34-9-cupcake-wars-4.jpg)
+
+![](/assets/images/34-9-cupcake-wars-5.jpg)
+
+![](/assets/images/34-9-cupcake-wars-6.jpg)
+
+![](/assets/images/34-9-cupcake-wars-7.jpg)
+
+![](/assets/images/34-9-cupcake-wars-8.jpg)
+
+![](/assets/images/34-9-cupcake-wars-9.jpg)
+
+![](/assets/images/34-9-cupcake-wars-10.jpg)
+
+![](/assets/images/34-9-cupcake-wars-11.jpg)
+
+![](/assets/images/34-9-cupcake-wars-12.jpg)
+
+![](/assets/images/34-9-cupcake-wars-13.jpg)
+
+![](/assets/images/34-9-cupcake-wars-14.jpg)

@@ -1,6 +1,7 @@
-**In the Garden**
-
-**Susan Burns**
+---
+title: In the Garden
+author: Susan Burns
+---
 
 My husband, Bob, and I have just returned from the Philadelphia Flower
 Show. This extravaganza is one of the largest flower shows in the world.

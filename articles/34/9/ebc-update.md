@@ -1,6 +1,7 @@
-**The Pastor's Pen**
-
-**Timothy Howard Jr.**
+---
+title: The Pastor's Pen
+author: Timothy Howard Jr.
+---
 
 April is a beautiful time in Eastford. After the long winter, we begin
 to see signs of new life all around us. Longer days, warmer sunshine,

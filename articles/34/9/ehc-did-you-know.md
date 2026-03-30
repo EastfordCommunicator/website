@@ -1,6 +1,7 @@
-**Did You Know?**
-
-**Eastford Historical Society**
+---
+title: Did You Know?
+author: Eastford Historical Society
+---
 
 Did you know that in 1823, the Phoenix Manufacturing Company operated
 two mills --- the Red Mill and the Stone Mill --- in what today is the

@@ -1,11 +1,7 @@
-CUTLINE: *Courtesy photo*
-
-Meeting a python up close and personal in the Explorer's Club at the
-Eastford CARES Program.
-
-**From the Superintendent**
-
-**Donna Leake**
+---
+title: From the Superintendent
+author: Donna Leake
+---
 
 We are very fortunate to be the recipient of a competitive grant-funded
 program that supports providing after-school enrichment programs for
@@ -63,3 +59,9 @@ Family Fun and Feud Game Night is scheduled for May 20. In addition,
 there will be a Parent Workshop focusing on fostering resilience in our
 children on April 23. It's never too late to join any of the ongoing
 clubs or activities.
+
+
+![](/assets/images/34-9-eastford-cares.jpg)
+Meeting a python up close and personal in the Explorer's Club at the
+Eastford CARES Program. *Courtesy photo*
+

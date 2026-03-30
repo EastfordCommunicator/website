@@ -1,4 +1,6 @@
-**[From the Eastford Independent Fire Company #1, Inc.]{.smallcaps}**
+---
+title: "From the Eastford Independent Fire Company #1, Inc."
+---
 
 Winter 2025-26 has been tough and is still here! Low temperatures and
 record-breaking inches of snow have made times difficult for Eastford
@@ -31,28 +33,21 @@ trained medical professional who provides emergency medical care,
 stabilizes patients and transports them to medical facilities.
 
 What are their responsibilities?
-
-\- They assess the situation and provide immediate care to stabilize
+- They assess the situation and provide immediate care to stabilize
 patients before transporting to a hospital.
-
-\- They conduct thorough evaluations of patients, including checking
+- They conduct thorough evaluations of patients, including checking
 vital signs and gathering medical history to determine appropriate
 treatment.
-
-\- They are trained to perform advanced life support techniques such as
+- They are trained to perform advanced life support techniques such as
 administering medications, starting IV lines, advanced airway
 management.
-
-\- They provide specialized care for traumatic injuries, controlling
+- They provide specialized care for traumatic injuries, controlling
 bleeding, immobilizing fractures and managing airway, breathing.
-
-\- They work closely with EMS personnel on scene to coordinate patient
+- They work closely with EMS personnel on scene to coordinate patient
 care.
-
-\- They communicate effectively with patients, bystanders, and hospital
+- They communicate effectively with patients, bystanders, and hospital
 staff to relay critical information.
-
-\- They typically work in ambulances, but they may respond to homes,
+- They typically work in ambulances, but they may respond to homes,
 highways, and public events. They often work in high-stress situations
 that require quick decision-making and technical expertise.
 

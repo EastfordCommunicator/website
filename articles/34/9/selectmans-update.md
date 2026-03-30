@@ -1,6 +1,7 @@
-**From the First Selectman**
-
-**Deb Richards**
+---
+title: From the First Selectman
+author: Deb Richards
+---
 
 Every day, municipal employees work quietly behind the scenes to keep
 communities functioning. They repair roads, answer questions at town

@@ -1,8 +1,6 @@
-HEAD:
-
-EES celebrates Read Across America Week with memorable reading moments
-
-CUTLINE: *Courtesy photos*
+---
+title: EES Celebrates Read Across America Week with Memorable Reading Moments
+---
 
 EASTFORD --- Eastford Elementary School celebrated Read Across America
 Week in the first week of March. Reading took center stage during the
@@ -36,3 +34,39 @@ encouraging a love of reading.
 
 Thank you to everyone who helped make this week such a wonderful
 celebration of reading at EES!
+
+*Courtesy photos*
+
+![](/assets/images/34-9-read-across-america-1.jpg)
+
+![](/assets/images/34-9-read-across-america-2.jpg)
+
+![](/assets/images/34-9-read-across-america-3.jpg)
+
+![](/assets/images/34-9-read-across-america-4.jpg)
+
+![](/assets/images/34-9-read-across-america-5.jpg)
+
+![](/assets/images/34-9-read-across-america-6.jpg)
+
+![](/assets/images/34-9-read-across-america-7.jpg)
+
+![](/assets/images/34-9-read-across-america-8.jpg)
+
+![](/assets/images/34-9-read-across-america-9.jpg)
+
+![](/assets/images/34-9-read-across-america-10.jpg)
+
+![](/assets/images/34-9-read-across-america-11.jpg)
+
+![](/assets/images/34-9-read-across-america-12.jpg)
+
+![](/assets/images/34-9-read-across-america-13.jpg)
+
+![](/assets/images/34-9-read-across-america-14.jpg)
+
+![](/assets/images/34-9-read-across-america-15.jpg)
+
+![](/assets/images/34-9-read-across-america-16.jpg)
+
+![](/assets/images/34-9-read-across-america-17.jpg)

@@ -1,12 +1,12 @@
-HEAD:
-
-EASTCONN's QMC announces Semester 1 honor roll
+---
+title: EASTCONN's QMC Announces Semester 1 Honor Roll
+---
 
 DANIELSON --- EASTCONN's Quinebaug Middle College (QMC) Magnet High
 School has released the School Year 2025-2026 Semester 1 Honor Roll list
 (Fall 2025).
 
-**High Honor Roll**
+## High Honor Roll
 
 Tabor Ambrose: North Windham (Windham); Samyah Azeez: Moosup
 (Plainfield); Alexis Barber: Moosup (Plainfield); Lily Begin: Griswold;
@@ -17,7 +17,7 @@ Plainfield; Phineas Hagan: Putnam; August Holdridge: Taftville
 (Norwich); Madison Knudson: Plainfield ; Darby Lalumiere: Killingly;
 Daniel Lobe: Danielson (Killingly); Natasha Miller: Sterling.
 
-**Honor Roll**
+## Honor Roll
 
 Yosiel Alamo Colon: Sterling; Danica Alvarado Wilcox: Dayville
 (Killingly); Ava Aubin: Plainfield; Dahlas Avery-Burdsal: Uncasville

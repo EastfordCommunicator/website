@@ -1,6 +1,7 @@
-**Legislative Update**
-
-**Sen. Jeff Gordon**
+---
+title: Legislative Update
+author: Sen. Jeff Gordon
+---
 
 One of the major items I focus on as your State Senator is increasing
 state funding for public and special education. These are two big
@@ -31,6 +32,6 @@ it is a big start.
 
 As always, please reach out to me if I can help you with a constituent
 matter, answer a question, or take up a concern. You can call my office
-at (860) 240-8800, e-mail me at jeffrey.gordon@cga.ct.gov, check for
+at (860) 240-8800, e-mail me at <jeffrey.gordon@cga.ct.gov>, check for
 news and sign up for my free e-newsletter at www.senatorgordon.com, or
-learn about what I am doing on Facebook at "Senator Jeff Gordon."
+learn about what I am doing on [Facebook at "Senator Jeff Gordon."](https://www.facebook.com/senatorjeffgordon/)

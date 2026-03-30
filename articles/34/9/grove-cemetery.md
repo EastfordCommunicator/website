@@ -1,4 +1,6 @@
-**From the Grove Cemetery Association Board of Trustees**
+---
+title: From the Grove Cemetery Association Board of Trustees
+---
 
 - Mowing Season --- March 15 to Thanksgiving: Artificial flowers,
 ornaments, and other objects are not allowed during the mowing season.

@@ -1,8 +1,6 @@
-HEAD:
-
-Library hosts horror author Chapman for energetic book talk, reception
-
-CUTLINE: *Courtesy photos*
+---
+title: Library Hosts Horror Author Chapman for Energetic Book Talk, Reception
+---
 
 EASTFORD --- On Saturday, March 7, the Eastford Public Library hosted
 horror author Clay McLeod Chapman. It was afternoon of spirited energy
@@ -26,3 +24,22 @@ understatement," Chapman said on his Facebook page later that day. "This
 is going to be a tough book talk to top. ... I can't thank you all
 enough for a great discussion ... to everyone who came out today, thank
 you so much. You're the best."
+
+
+*Courtesy photos*
+
+![](/assets/images/34-9-chapman-2.jpg)
+
+![](/assets/images/34-9-chapman-3.jpg)
+
+![](/assets/images/34-9-chapman-4.jpg)
+
+![](/assets/images/34-9-chapman-7.jpg)
+
+![](/assets/images/34-9-chapman-9.jpg)
+
+![](/assets/images/34-9-chapman-10.jpg)
+
+![](/assets/images/34-9-chapman-12.jpg)
+
+![](/assets/images/34-9-chapman-16.jpg)

@@ -1,13 +1,6 @@
-CUTLINE: *Courtesy photo*
-
-1\.
-
-Dr. Michael Harten has been announced as Woodstock Academy's new
-principal effective July 1. *Courtesy photo*
-
-HEAD:
-
-Woodstock Academy announces Harten as new principal
+---
+title: Woodstock Academy Announces Harten as New Principal
+---
 
 WOODSTOCK --- The Woodstock Academy is pleased to announce the
 appointment of Dean of Academics Dr. Michael Harten as its next
@@ -52,3 +45,8 @@ Harten will assume the principalship effective July 1. The Woodstock
 Academy community looks forward to this next chapter and the continued
 advancement of its mission to provide a rigorous and exceptional
 educational experience for all students.
+
+
+![a man in a suit in tie in front of the Woodstock Academy building](/assets/images/34-9-mike-harten.jpg).
+Dr. Michael Harten has been announced as Woodstock Academy's new
+principal effective July 1. *Courtesy photo*

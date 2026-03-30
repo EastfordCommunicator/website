@@ -1,11 +1,6 @@
-CUTLINE: *Courtesy photo*
-
-EASTCONN's Arts at the Capitol Theater performing arts magnet school.
-*Courtesy photo*
-
-HEAD:
-
-Enrollment openings available at ACT for 2026-27
+---
+title: Enrollment openings available at ACT for 2026-27
+---
 
 WILLIMANTIC --- EASTCONN's Arts at the Capitol Theater (ACT) magnet high
 school has a limited number of seats available for Fall 2026 enrollment.
@@ -62,3 +57,9 @@ EASTCONN, ACT's administering organization, is a public, non-profit
 Regional Educational Service Center that has served northeastern
 Connecticut's educational needs since 1980. Learn more at
 www.eastconn.org.
+
+
+
+![](/assets/images/34-9-act-exterior.jpg)
+EASTCONN's Arts at the Capitol Theater performing arts magnet school.
+*Courtesy photo*

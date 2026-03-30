@@ -34,7 +34,7 @@ March 31 and April 1, Fire Building; April 7 and 8, Cardboard Ovens;
 April 14 and 15, Make Pizza in your cardboard oven; April 21 and 22, All
 About Eggs; April 28 and 29, Intermittent Streams; May 5 and 6, Rocks,
 Rocks, Rocks. All at 4:30 p.m. $20 per session, $110 for all sessions
-per child. Call (860) 974-1122 or e-mail raggedhillwodds@gmail.com to
+per child. Call (860) 974-1122 or e-mail <raggedhillwodds@gmail.com> to
 register.
 
 Windham-Tolland 4-H Camp is located at 326 Taft Pond Rd., Pomfret

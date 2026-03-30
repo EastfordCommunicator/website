@@ -1,25 +1,8 @@
-CUTLINE: *Courtesy photo*
-
-1\.
-
-Eastford resident Allison Glasser will be running in the 130^th^ Boston
-Marathon on April 20, and will be raising money for Mass General
-Hospital.
-
-2\.
-
-Allison Glasser has been an Eastford resident for the past six months,
-and said the town already has a special place in her heart.
-
-HEAD: Running down a dream
-
-SUB HEAD: Eastford resident takes aim at Boston Marathon
-
-JUMP HEAD: 'My only goal is to inspire others and to give back'
-
-BY RANDAL CHINNOCK
-
-SPECIAL TO THE COMMUNICATOR
+---
+title: Running Down a Dream: Eastford Resident takes Aim at Boston Marathon
+author: Randal Chinnock
+---
+*'My only goal is to inspire others and to give back'*
 
 EASTFORD --- Allison Glasser had no idea what life was going to bring
 her when she moved to Eastford six months ago. She works as a private
@@ -44,20 +27,20 @@ Interestingly, before this opportunity, Glasser was not a habitual
 runner.
 
 "Honestly, I never considered myself a 'runner' or even enjoyed the
-thought of running long distances," she said. "I\'ve never trained for a
+thought of running long distances," she said. "I've never trained for a
 marathon or even run a 5K before starting marathon training. I have,
 however, been a huge activist for exercise and fitness since I got sober
 in 2013 --- not just for the physical benefits, but also for the mental
 and emotional effects. I am also a firm believer that beauty and growth
 lie beyond your comfort zone, so when the opportunity arose to do the
-Boston Marathon, I couldn\'t say no."
+Boston Marathon, I couldn't say no."
 
 Glasser is also currently competing in a nationwide fitness competition
 called Miss Health and Fitness 2026, now in its 16th year. She reported
 that more than 45,000 women are competing and she is currently in first
 place in her group of 70 women. The quarterfinals against 11 other
 contestants is next. If she takes first place in the competition, she
-plans to donate all of the $20,000 cash prize to the Mom\'s In Recovery
+plans to donate all of the $20,000 cash prize to the Mom's In Recovery
 program at Dartmouth Health's OB Department. This will help pregnant and
 postpartum women with mental health issues, and also alcohol and
 substance use disorders. In addition, $1 for every vote goes to the B+
@@ -81,11 +64,21 @@ possibly initiating a running club, where people of all abilities can
 come together to socialize, have fun and be more active in our beautiful
 community and surroundings."
 
-E-mail allison3akg@gmail.com if you\'re interested in joining. More
-information about the fitness competition can be found at
-https://mshealthandfit.com/2026/allison-glasser (you can vote online to
-support her in this competition. Voting ends April 2). Allison's
+E-mail <allison3akg@gmail.com> if you're interested in joining. [More
+information about the fitness competition can be found here
+ (you can vote online to
+support her in this competition. Voting ends April 2)](https://mshealthandfit.com/2026/allison-glasser). [Allison's
 fundraising page for the 130th Boston Marathon on April 20 can be found
-at
+here[(https://www.givengain.com/project/allison-raising-funds-for-massachusetts-general-hospital-116062).
 
-https://www.givengain.com/project/allison-raising-funds-for-massachusetts-general-hospital-116062.
+
+*Courtesy photo*
+
+![](/assets/images/34-9-allison-glasser-1.jpg)
+Eastford resident Allison Glasser will be running in the 130^th^ Boston
+Marathon on April 20, and will be raising money for Mass General
+Hospital.
+
+![](/assets/images/34-9-allison-glasser-2.jpg)
+Allison Glasser has been an Eastford resident for the past six months,
+and said the town already has a special place in her heart.
