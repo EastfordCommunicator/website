@@ -1,5 +1,5 @@
 ---
-title: Running Down a Dream: Eastford Resident takes Aim at Boston Marathon
+title: "Running Down a Dream: Eastford Resident takes Aim at Boston Marathon"
 author: Randal Chinnock
 ---
 *'My only goal is to inspire others and to give back'*
@@ -69,7 +69,7 @@ information about the fitness competition can be found here
  (you can vote online to
 support her in this competition. Voting ends April 2)](https://mshealthandfit.com/2026/allison-glasser). [Allison's
 fundraising page for the 130th Boston Marathon on April 20 can be found
-here[(https://www.givengain.com/project/allison-raising-funds-for-massachusetts-general-hospital-116062).
+here](https://www.givengain.com/project/allison-raising-funds-for-massachusetts-general-hospital-116062).
 
 
 *Courtesy photo*

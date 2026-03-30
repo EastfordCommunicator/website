@@ -74,8 +74,6 @@ Senior: Lauren Barlow
 
 ![](/assets/images/34-9-cupcake-wars-3.jpg)
 
-![](/assets/images/34-9-cupcake-wars-4.jpg)
-
 ![](/assets/images/34-9-cupcake-wars-5.jpg)
 
 ![](/assets/images/34-9-cupcake-wars-6.jpg)

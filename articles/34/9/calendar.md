@@ -27,7 +27,7 @@ host their annual Good Friday Service on Friday, April 3, at 7 p.m., at
 Eastford Baptist, 133 Union Rd., Eastford. Join us as we reflect on the
 cross of Christ.
 
-### #aturday, April 4
+### Saturday, April 4
 
 Eastford Public Library hosts a "Senior Education Seminar for Seniors
 and Families" at 1 p.m. This will be led by Julie Cruz, a registered

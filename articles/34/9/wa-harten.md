@@ -47,6 +47,6 @@ advancement of its mission to provide a rigorous and exceptional
 educational experience for all students.
 
 
-![a man in a suit in tie in front of the Woodstock Academy building](/assets/images/34-9-mike-harten.jpg).
+![a man in a suit in tie in front of the Woodstock Academy building](/assets/images/34-9-mike-harten.jpg)
 Dr. Michael Harten has been announced as Woodstock Academy's new
 principal effective July 1. *Courtesy photo*
