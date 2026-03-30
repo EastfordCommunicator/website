@@ -41,7 +41,7 @@ similar. If you are on a desktop computer, you can use your mouse to
 hover over the sender (without clicking!) to see if what they have typed
 as the e-mail address is really the actual sending address (For example,
 the message says it's from Bank of America but the e-mail address is
-actually "bankof.ameriica.com"). If you're on your phone, it is a
+actually "bankof.ameriica\.com"). If you're on your phone, it is a
 little tricker, which means don't click on any links in the message
 itself. If you think it's from a legitimate sender, say an online shop
 you frequent often, log into your account to check the message that way
