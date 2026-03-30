@@ -14,15 +14,15 @@ February: 2
 
 **REAL ESTATE TRANSACTIONS**
 
-Jan. 21: Ashford Rd., \$85,000, Westford Development LLC to Essential
+Jan. 21: Ashford Rd., $85,000, Westford Development LLC to Essential
 Dev LLC
 
-Jan. 21: 86A County Rd., \$580,000, Tyler M. Channey to Kristan L. Baker
+Jan. 21: 86A County Rd., $580,000, Tyler M. Channey to Kristan L. Baker
 
-Jan. 27: 26 Pilfershire Rd., \$80,000, Edward Windecker Sr. Est. to
+Jan. 27: 26 Pilfershire Rd., $80,000, Edward Windecker Sr. Est. to
 Robin Vallese
 
-Jan. 28: 101 Westford Rd., \$25,000, Joanne Ramey to Madelyn Filomeno
+Jan. 28: 101 Westford Rd., $25,000, Joanne Ramey to Madelyn Filomeno
 
 **POLICE REPORT -- TROOP D**
 

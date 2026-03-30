@@ -23,7 +23,7 @@ Installation of carbon monoxide detectors is also a critical addition
 for your safety. Carbon monoxide is odorless, colorless and tasteless,
 with symptoms often similar to the flu.
 
-• Who or What is a Paramedic? Often when the EIFC responds to a medical
+- Who or What is a Paramedic? Often when the EIFC responds to a medical
 emergency, an automobile accident or crisis, a paramedic will be
 dispatched at the same time as the first responding fire department. We
 are asked often, "What or who is a paramedic?" A paramedic is a highly

@@ -57,10 +57,10 @@ called Miss Health and Fitness 2026, now in its 16th year. She reported
 that more than 45,000 women are competing and she is currently in first
 place in her group of 70 women. The quarterfinals against 11 other
 contestants is next. If she takes first place in the competition, she
-plans to donate all of the \$20,000 cash prize to the Mom\'s In Recovery
+plans to donate all of the $20,000 cash prize to the Mom\'s In Recovery
 program at Dartmouth Health's OB Department. This will help pregnant and
 postpartum women with mental health issues, and also alcohol and
-substance use disorders. In addition, \$1 for every vote goes to the B+
+substance use disorders. In addition, $1 for every vote goes to the B+
 Foundation to help kids with cancer (<https://www.bepositive.org/>).
 
 "My only goal is to inspire others and to give back," Glasser said.

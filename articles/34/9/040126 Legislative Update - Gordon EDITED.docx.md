@@ -13,11 +13,11 @@ and your family.
 
 I have two ambitious legislative bills:
 
-• Increase the base amount per pupil in the Education Cost Sharing
+- Increase the base amount per pupil in the Education Cost Sharing
 formula. It has not been updated since 2013. It needs a 45-percent
 increase just to catch up to 2026.
 
-• Cover the full amount of the excess cost of special education, instead
+- Cover the full amount of the excess cost of special education, instead
 of just a fraction of the true cost.
 
 For Eastford, this could bring in a lot more state dollars. The state

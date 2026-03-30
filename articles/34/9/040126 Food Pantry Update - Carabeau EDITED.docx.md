@@ -43,8 +43,8 @@ the Pantry. We appreciate your hard work.
 The Eastford Food Pantry has been selected again as a partner in the
 Stop & Shop Bloomin' 4
 
-Good Program. The Pantry will receive \$1 for each specially marked
-\$11.99 Bloomin' 4 Good
+Good Program. The Pantry will receive $1 for each specially marked
+$11.99 Bloomin' 4 Good
 
 bouquet sold during the month of April at the Putnam Stop & Shop.
 

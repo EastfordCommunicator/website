@@ -25,14 +25,14 @@ can result in a lot of time and headache.
 Here\'s some tips to try and protect you and your devices from these
 phishing scams:
 
-• Go slow! Scammers rely on us responding to their sense of urgency,
+- Go slow! Scammers rely on us responding to their sense of urgency,
 which can override our own common sense. Take your time to read the
 message and think, Did I really order something from FedEx? Was I on the
 highway recently where I would have used by EZ Pass? Or in my dad\'s
 case, the AT&T bill isn\'t even in my name so how would they know if I
 owe anything or not?
 
-• Take a look at the sender. This is a bit easier when you\'re looking
+- Take a look at the sender. This is a bit easier when you\'re looking
 at an email, but either way. Do you know this person or organization? A
 lot of phishing emails look like they are going from a legitimate
 company, but really they have made up an e-mail address that looks very
@@ -46,12 +46,12 @@ itself. If you think it\'s from a legitimate sender, say an online shop
 you frequent often, log into your account to check the message that way
 instead of clicking on the link.
 
-• Remember you are (sort of) invisible to these big companies! There\'s
+- Remember you are (sort of) invisible to these big companies! There\'s
 a lot more to be said here, but what I mean is: Microsoft/Apple/your
 favorite three-letter federal agency do not have the time or inclination
 to notify everyone individually about a bill owed or software that is
 out of service. No one will ever call, text, or e-mail and let you know
-that they found something on your machine and for \$19.99 will clean it
+that they found something on your machine and for $19.99 will clean it
 up for you. In that regard, you are not on anyone\'s radar. So, if you
 get a call like that, hang up, or if it\'s an e-mail or text, just
 ignore it.

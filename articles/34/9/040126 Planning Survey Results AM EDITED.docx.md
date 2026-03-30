@@ -30,7 +30,7 @@ preserved; ideas on housing options; land development; zoning;
 infrastructure; traffic safety; lakes, rivers and watercourses; and much
 more. Below are just a few of the highlights:
 
-• **Question: Please rate your overall satisfaction with the quality of
+- **Question: Please rate your overall satisfaction with the quality of
 life in Eastford.** An overwhelming majority of 91 percent were either
 "satisfied" (40 percent) or "very satisfied." Some highlighted notes
 within the survey noted residents' concerns over speeding in town,
@@ -40,7 +40,7 @@ brought up, noting that current conditions are inadequate. Other
 comments noted concern over housing developments further increasing the
 financial burden on the community.
 
-• **Question: How important is it for Eastford to expand housing option,
+- **Question: How important is it for Eastford to expand housing option,
 duplex, multi-family, senior housing, rentals, etc.?** Reactions to this
 question were solidly in the negative, with 81 percent of responders
 giving a "not important at all (49 percent)" or "not very important (32
@@ -60,7 +60,7 @@ The consensus stated that "Eastford should stay 'as rural as possible.'
 Residents moved \[here\] for 'peace and quiet' and feel any significant
 expansion poses a direct 'threat to our resources.'"
 
-• **Question: Would you support more pedestrian improvements within the
+- **Question: Would you support more pedestrian improvements within the
 Village Center or other areas of Eastford?** Answers to this question
 generally were in the positive, with 32 percent answering "probably
 would," and 27 percent answering "definitely would," with 27 percent
