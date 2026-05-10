@@ -1,6 +1,6 @@
 ---
 title: Facing Added Costs, EES Seeks Additional Fundraising for D.C. Field Trip
-author: carole McCombe
+author: Carole McCombe
 ---
 
 EASTFORD --- For many Eastford students, the eighth-grade trip to

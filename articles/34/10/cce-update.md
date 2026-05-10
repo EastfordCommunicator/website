@@ -1,5 +1,5 @@
 ---
-title: rom the Congregational Church of Eastford
+title: From the Congregational Church of Eastford
 author: Mike Moran
 ---
 

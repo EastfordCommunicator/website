@@ -43,6 +43,5 @@ is presented.
 
 The Annual Town Budget Meeting will be held Thursday, May 14, at 7 p.m.,
 at Eastford Elementary School. For more information on the budget
-proposals, copies are available at the Town Office Building, or online
-at on the town website at
-<https://www.eastfordct.gov/board-selectmen/meeting/annual-budget-hearing-0>.
+proposals, [copies are available at the Town Office Building, or online
+at on the town website here](https://www.eastfordct.gov/board-selectmen/meeting/annual-budget-hearing-0).

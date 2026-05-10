@@ -91,11 +91,12 @@ co-chair of the Rural Caucus.
 
 ![Ethan Werstler wearing a tie standing in a field](/assets/images/34-10-ethan-werstler.jpg)
 
-![Jeff Gordon in a suit in front of a flag](/assets/images/34-10-jeff-gordon.jpg)
-
-Ethan Werstler (D-Woodstock) has announced his campaign for the
+Ethan Werstler (D-Woodstock, above) has announced his campaign for the
 Connecticut State Senate. Assuming no other challengers present
 themselves in a Democratic primary (which would be held Aug. 11), he
-will be looking to challenge incumbent Sen. Jeff Gordon (R-Woodstock),
+will be looking to challenge incumbent Sen. Jeff Gordon (R-Woodstock, below),
 who was elected to the office in 2022, and is currently serving in his
 second term. Gordon announced his re-election bid in January.
+
+
+![Jeff Gordon in a suit in front of a flag](/assets/images/34-10-jeff-gordon.jpg)

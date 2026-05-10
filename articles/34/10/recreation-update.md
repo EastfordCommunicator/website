@@ -29,7 +29,7 @@ bands, a food truck, ice cream, baked goods sale, bounce house, the
 "hula hoop lady," pie eating contest, games for kids, a car show at
 Bowen's Garage and much more. [Vendor/exhibitor registration is here](https://forms.gle/AYZ6gCCfoyfbY6yA7)
 
-(Watch for more details on the town website here)[https://www.eastfordct.gov/recreation-commission].
+[Watch for more details on the town website here](https://www.eastfordct.gov/recreation-commission).
 
 Thanks to all for supporting your Recreation Commission. If you are
 interested in getting more involved, contact us at

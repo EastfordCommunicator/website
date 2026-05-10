@@ -43,7 +43,7 @@ Knowlton Hall. New Cubs are always welcome! Scout meetings are the
 second and fourth Tuesday evenings of the month at 6:30 p.m. New members
 are welcome.
 
-CUTLINE: *Courtesy photo*
+*Courtesy photo*
 
 ![several scouts at a table](/assets/images/34-10-food-prep.jpg)
 Scouts plan delicious meals for the next campout. Scouts will cook and

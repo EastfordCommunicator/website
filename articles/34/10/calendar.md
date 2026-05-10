@@ -99,7 +99,7 @@ Eastford Public Library will host "Storytime" at 11 a.m. Join us for a
 story, craft, snack and time of free play.  In the afternoon, we will
 host a Dungeons & Dragons club from 4:30 to 5:30 p.m.
 
-#### Saturday, May 30th
+### Saturday, May 30th
 
 Dearest Gentle Reader, Eastford Public Library cordially invites you to
 our Bridgerton Soiree at 6 p.m. Whether you love the novels by Julia

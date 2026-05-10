@@ -1,4 +1,4 @@
---
+---
 title: Did You Know?
 author: Eastford Historical Society
 ---
