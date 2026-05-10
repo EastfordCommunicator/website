@@ -57,10 +57,19 @@ function issues(dir) {
     return issueList
 }
 
+function sortedIssues(dir) {
+    let issueArray = issues(dir);
+    issueArray = issueArray.sort(
+        (a, b) => Date.parse(a.date) - Date.parse(b.date)
+    )
+    console.log(issueArray);
+    return issueArray;
+}
+
 // weird things were happening when I passed a value through the function
 // it was passing in a system data object instead of the default value
 // I'm guessing that has to do with the internal anatomy of Eleventy, so this value is hard-coded
 module.exports = function() {
-    let i = issues("articles")
+    let i = sortedIssues("articles")
     return i
 }
