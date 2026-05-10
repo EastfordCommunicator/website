@@ -21,7 +21,7 @@ while guests were treated to a themed reception.
 
 ![](/assets/images/34-10-owen-king-1.jpg)
 
-![](/assets/images/34-10-owen-king-3.jpg)
+![](/assets/images/34-10-owen-king-3.png)
 
 ![](/assets/images/34-10-owen-king-5.jpg)
 

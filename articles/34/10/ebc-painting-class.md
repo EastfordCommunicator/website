@@ -14,20 +14,20 @@ and check the "Events" tab.
 
 *Courtesy photos*
 
-![](/assets/images/painting-1.jpg)
+![](/assets/images/34-10-painting-1.jpg)
 
-![](/assets/images/painting-2.jpg)
+![](/assets/images/34-10-painting-2.jpg)
 
-![](/assets/images/painting-5.jpg)
+![](/assets/images/34-10-painting-5.jpg)
 
-![](/assets/images/painting-6.jpg)
+![](/assets/images/34-10-painting-6.jpg)
 
-![](/assets/images/painting-7.jpg)
+![](/assets/images/34-10-painting-7.jpg)
 
-![](/assets/images/painting-8.jpg)
+![](/assets/images/34-10-painting-8.jpg)
 
-![](/assets/images/painting-9.jpg)
+![](/assets/images/34-10-painting-9.jpg)
 
-![](/assets/images/painting-11.jpg)
+![](/assets/images/34-10-painting-11.jpg)
 
-![](/assets/images/painting-15.jpg)
+![](/assets/images/34-10-painting-15.jpg)
