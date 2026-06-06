@@ -32,8 +32,6 @@ throughout the event.
 
 ![](/assets/images/34-11-dance-9.jpg)
 
-![](/assets/images/34-11-dance-10.jpg)
-
 ![](/assets/images/34-11-dance-11.jpg)
 
 ![](/assets/images/34-11-dance-12.jpg)
