@@ -1,15 +1,13 @@
-HEAD:
-
-Memorial Day ceremony honors veterans with respect, gratitude
-
-CUTLINES: *Adam Minor photos*
+---
+title: Memorial Day Ceremony Honors Veterans with Respect, Gratitude
+---
 
 EASTFORD --- Inclement weather canceled a portion of the town's Memorial
 Day plans on Monday, May 25, but that didn't stop residents from
 gathering in the Eastford Elementary School gymnasium to honor the
 town's veterans during Eastford's annual Memorial Day ceremony. Dozens
 filled the seats in the gym as town leaders expressed gratitude for the
-service and sacrifice of local veterans.
+service and sacrifice of local veterans. *Adam Minor photos*
 
 ![](/assets/images/34-11-memorial-day-1.jpg)
 The color guard at the Memorial Day ceremony.

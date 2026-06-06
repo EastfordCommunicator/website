@@ -1,5 +1,5 @@
 ---
-title: What's New with BSA Scout Troop 92?**
+title: What's New with BSA Scout Troop 92?
 ---
 
 May was a busy month for Scouts in Troop 92!

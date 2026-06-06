@@ -14,3 +14,5 @@ Meet Trevor, a 2‑year‑old, 45‑pound Aussie‑mix with movie‑star looks a
 a personality to match. He's energetic, sweet, friendly, and loves both
 people and other dogs. Playful, fun‑loving, and ready for his forever
 home!
+
+![](/assets/images/34-11-trevor.jpg)

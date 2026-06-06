@@ -142,7 +142,7 @@ E-mail: <ashlyn.ellsworth@eastfordct.gov>
 
 Paul Torcellini -- Selectman
 
-E-mail: s<electmantorcellini@eastfordct.gov>
+E-mail: <selectmantorcellini@eastfordct.gov>
 
 Emily John -- Administrative Assistant
 

@@ -1,5 +1,6 @@
 ---
 title: Calendar
+layoutNumber: 2
 ---
 
 *Calendar entries must be sent to the editor no later than the 15th of
