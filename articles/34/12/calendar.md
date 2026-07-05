@@ -77,7 +77,7 @@ lake, a free cookout for all, premium ice cream, a bounce house, and
 other fun. We will be treated to a concert by the East Woodstock Cornet
 Band. The entire event is free, our gift to you.
 
-T### uesday, July 14
+### Tuesday, July 14
 
 Eastford Public Library hosts "Children's Gardening Workshop," presented
 by Old Sturbridge Village, at 3 p.m. Join us as we look at 19th-century

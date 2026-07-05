@@ -1,5 +1,5 @@
 ---
-title: Maccormack Faces Backlash after Anti-Lgbtq Comments: Emilio Emerges to Challenge in GOP Primary as a Result
+title: "MacCormack Faces Backlash after Anti-LGBTQ Comments: Emilio Emerges to Challenge in GOP Primary as a Result"
 author: Adam Minor
 ---
 *Emilio to challenge MacCormack in GOP Primary on Aug. 11*

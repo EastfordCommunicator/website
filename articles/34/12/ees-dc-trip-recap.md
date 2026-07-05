@@ -115,6 +115,8 @@ traveled to Washington, D.C., from Tuesday, May 19, to Friday, May 22.
 The group is pictured here on Wednesday, May 20, at the World War II
 Memorial with the Washington Monument in the background. *Courtesy photos*
 
+![](/assets/images/34-12-dc-trip-15.jpg)
+
 ![](/assets/images/34-12-dc-trip-3.jpg)
 
 ![](/assets/images/34-12-dc-trip-8.jpg)
@@ -122,8 +124,6 @@ Memorial with the Washington Monument in the background. *Courtesy photos*
 ![](/assets/images/34-12-dc-trip-9.jpg)
 
 ![](/assets/images/34-12-dc-trip-10.jpg)
-
-![](/assets/images/34-12-dc-trip-15.jpg)
 
 ![](/assets/images/34-12-dc-trip-16.jpg)
 

@@ -18,8 +18,6 @@ end to a hot, sunny day.
 
 ![](/assets/images/34-12-field-day-4.jpg)
 
-![](/assets/images/34-12-field-day-5.jpg)
-
 ![](/assets/images/34-12-field-day-6.jpg)
 
 ![](/assets/images/34-12-field-day-7.jpg)
