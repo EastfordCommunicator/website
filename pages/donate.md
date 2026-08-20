@@ -10,6 +10,7 @@ bannertext: We rely on donations to keep providing the <i>Communicator</i>. You 
 
 In addition to our advertisers' support, *The Eastford Communicator* also greatly relies on contributions from donors, whose support helps offset printing and mailing costs of each issue.  We thank you for your support! Here are a few ways to help:
 - [Check out our GoFundMe!](https://www.gofundme.com/f/eastford-communicator)
+- [Donate via Venmo @EastfordCommunicator](https://www.venmo.com/u/EastfordCommunicator)
 - Checks may be made payable to *The Eastford Communicator* and sent to PO Box 253, Eastford, CT 06242. 
 
 Please direct any questions to [{{metadata.author.email}}](mailto:{{metadata.author.email}}), or call [860 337-2481](tel:8603372481).
