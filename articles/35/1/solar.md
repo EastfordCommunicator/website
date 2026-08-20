@@ -1,5 +1,5 @@
 ---
-title: "Connecticut'S New Agrivoltaics Law: What It Means for Eastford's Agricultural Future"
+title: "Connecticut's New Agrivoltaics Law: What It Means for Eastford's Agricultural Future"
 author: Amelia Peloquin
 ---
 

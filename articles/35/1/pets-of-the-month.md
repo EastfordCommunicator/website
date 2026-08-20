@@ -17,14 +17,14 @@ Banjo takes a stroll at Roseland Park with owner Mia Kernan.
 ![](/assets/images/35-1-02-ruthie---obrien.jpg)
 Ruthie, owned by David and Wendy O'Brien.
 
-![](/assets/images/35-1-03-Piper-Abromaitis.jpg)
-Piper, owned by Nick and Nicole Abromaitis.
+<!--![](/assets/images/35-1-03-Piper-Abromaitis.jpg)
+Piper, owned by Nick and Nicole Abromaitis.-->
 
 ![](/assets/images/35-1-04-Monkey-Abromaitis.jpg)
 Monkey, owned by Nick and Nicole Abromaitis.
 
-![](/assets/images/35-1-05-Quigley---Barlow.jpg)
-Quigley, owned by Jeremy and Lauren Barlow, cools off in the brook.
+<!--![](/assets/images/35-1-05-quigley-barlow.jpg)
+Quigley, owned by Jeremy and Lauren Barlow, cools off in the brook.-->
 
 ![](/assets/images/35-1-06-finley---cody.jpg)
 Introducing Finley, owned by Nick and Alaina Cody.
