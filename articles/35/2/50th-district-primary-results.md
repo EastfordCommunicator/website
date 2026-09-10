@@ -146,7 +146,5 @@ of 264 registered Democrats in Eastford, yielding a 40.91-percent voter
 turnout.
 
 
-
-CUTLINE:
-
+![](/assets/images/35-2-anthony-emilio.png)
 Anthony Emilio
