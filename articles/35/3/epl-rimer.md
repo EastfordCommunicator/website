@@ -19,8 +19,6 @@ biology behind depression and the lessons she has learned since.
 
 ![](/assets/images/35-3-rimer-2.jpg)
 
-![](/assets/images/35-3-rimer-3.jpg)
-
 ![](/assets/images/35-3-rimer-4.jpg)
 
 ![](/assets/images/35-3-rimer-5.jpg)
