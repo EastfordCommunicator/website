@@ -2,7 +2,26 @@
 Website for the [Eastford Communicator](https://eastford.news)
 
 ## Structure
-Organize articles into volumes and issues. Put links to PDF files on the homepage for each issue. This will probably require a JSON file for each issue (or can I do it with special front matter in the editor's letter?). 
+
+Articles are organized into volumes and issues in the `articles` directory, in a directory `/\[vol\]/\[issue\]. Each issue is formatted by a JSON file, which specifies the data, e.g.:
+```
+{
+    "volume": 35,
+    "issue": 1,
+    "pdfUrl": "https://files.eastford.news/35-1.pdf",
+    "date": "2026-08-01",
+    "issueTitle": "",
+    "color": "",
+    "articleCategories": ["article"],
+    "editors": [
+        {"role": "Editor-in-Chief", "name": "Adam Minor"},
+        {"role": "Web Editor", "name": "Micah Torcellini"}
+    ]
+}
+```
+Permalinks are defined by the file slug. Front matter specifies title and author. If a title contains a colon, it will be split into title and subtitle (but the whole string must be quoted or YAML parsing breaks). See the [Eleventy documentation on front matter](https://www.11ty.dev/docs/data-frontmatter/) for details. 
+
+Large files, such as the PDF version, should be hosted externally. 
 
 ## Components
 - `_includes/layouts/` contains layout files.
@@ -122,10 +141,10 @@ Parameters:
 
 `pandoc "filename.docx" -o "filename.md"`
 
-To generate Markdown for all the files in the directory (Powershell): `Get-ChildItem -File | Foreach {pandoc $_.Name -o (-join ($_.Name, ".md"))}`
+To generate Markdown for all the files in the directory (PowerShell): `Get-ChildItem -File | Foreach {pandoc $_.Name -o (-join ($_.Name, ".md"))}`
 
-To generate Markdown for all the DOCX files in the directory and subdirectory (I am very proud of this one): `get-Childitem -Recurse -filter *docx | Foreach {pandoc (-join($_.Directory, "/", $_.Name)) -o (-join($_.Name, ".md"))}`
+To generate Markdown for all the DOCX files in the directory and subdirectory(PowerShell): `get-Childitem -Recurse -filter *docx | Foreach {pandoc (-join($_.Directory, "/", $_.Name)) -o (-join($_.Name, ".md"))}`
 
-To get all the JPG files and rename them in accordance with our standards: `get-ChildItem -Recurse -filter *jpg | Foreach { Copy-item $_.FullName -Destination  "C:\Path\To\the\Communicator\_docx\34-1\$("34-1-" + $_.name.replace(" ","-").ToLower())"}`
+To get all the JPG files and rename them in accordance with our standards (PowerShell): `get-ChildItem -Recurse -filter *jpg | Foreach { Copy-item $_.FullName -Destination  "C:\Path\To\the\Communicator\_docx\34-1\$("34-1-" + $_.name.replace(" ","-").ToLower())"}`
 
-Alternate, run `bash process.sh`
+Alternately, run `bash process.sh` which will do most things. Some pictures will likely not be copied if they are in weird formats and because I'm not good at regexes. 
