@@ -1,10 +1,3 @@
-**<span class="smallcaps">Eastford Communicator</span>**
-
-**<span class="smallcaps">Election Questionnaire</span>**
-
-**<span class="smallcaps">PAT BOYD</span>**
-
-**<span class="smallcaps">50<sup>th</sup> HOUSE DISTRICT</span>**
 ---
 title: Election Questionnaire for Pat Boyd, House District 50
 ---
