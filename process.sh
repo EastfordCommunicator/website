@@ -11,7 +11,7 @@ echo "created ./articles/$volume/$issue/"
 
 cd "./_docx/$volume-$issue/"
 
-find -iname "*.docx" -execdir pandoc \{} -t commonmark_x -o "{}.md" \;
+find -iname "*.docx" -execdir pandoc \{} -t commonmark -o "{}.md" \;
 
 echo "files converted"
 
