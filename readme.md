@@ -147,4 +147,4 @@ To generate Markdown for all the DOCX files in the directory and subdirectory(Po
 
 To get all the JPG files and rename them in accordance with our standards (PowerShell): `get-ChildItem -Recurse -filter *jpg | Foreach { Copy-item $_.FullName -Destination  "C:\Path\To\the\Communicator\_docx\34-1\$("34-1-" + $_.name.replace(" ","-").ToLower())"}`
 
-Alternately, run `bash process.sh` which will do most things. Some pictures will likely not be copied if they are in weird formats and because I'm not good at regexes. 
+Alternately (on Mac/Linux), run `bash process.sh` which will both convert files and copy pictures, renaming them appropriately. Some pictures will not be copied if they are in weird formats (so you'll need to convert them manually) and if they are single-word filenames (because I'm not good at regexes). Check the filenames of hte pictures to make sure they don't have spaces. 
