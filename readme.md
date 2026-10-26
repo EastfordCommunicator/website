@@ -1,5 +1,7 @@
 # *Communicator* Website
-Website for the [Eastford Communicator](https://eastford.news)
+Website for the [Eastford Communicator](https://eastford.news). 
+
+This repository uses Git LFS; email me if you need to upload pictures and need an LFS token. 
 
 ## Structure
 
